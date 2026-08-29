@@ -75,7 +75,7 @@ development/
 | Путь | Что это | Статус |
 |------|---------|--------|
 | `professional-skills/Effektivnyy-TypeScript_RuLit_Me_620115.pdf` | Книга Effective TypeScript | добавлена, план чтения ещё нет |
-| `english-learning/` | English | пусто, ждёт план |
+| `english-learning/` | English: профиль, assessment, план 6 мес., progress, resources | старт 2026-08-29, Phase 1 Foundation |
 
 ---
 
