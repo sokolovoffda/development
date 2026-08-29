@@ -15,8 +15,12 @@ This repo is for professional development (English + skills), not product code.
    - `professional-skills/` — professional skills (e.g. TypeScript)
 3. Repo structure, this rule, and updates to `README.md` belong in the **architecture** chat unless the user explicitly asks otherwise.
 
+## Auto-push
+
+A project `stop` hook may auto commit+push when uncommitted **text** changes reach `thresholdLines` (default 300). See `README.md` and `.cursor/hooks/auto-push.config.json`. Do not fight that hook; still do not manually commit/push unless the user asks.
+
 ## Do not
 
 - Invent folder layout that contradicts `README.md`
 - Copy dealing-console-ui code/wiki here — link to `dealing-console-ui\.ai` when needed
-- Commit unless the user asks
+- Commit/push manually unless the user asks (hook auto-save is the exception)

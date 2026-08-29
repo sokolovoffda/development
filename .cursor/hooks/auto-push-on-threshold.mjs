@@ -8,9 +8,8 @@
 
 import { spawnSync } from 'node:child_process'
 import { readFileSync, existsSync } from 'node:fs'
-import { join, relative } from 'node:path'
+import { join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { createInterface } from 'node:readline'
 
 const hookDir = fileURLToPath(new URL('.', import.meta.url))
 const repoRoot = join(hookDir, '..', '..')

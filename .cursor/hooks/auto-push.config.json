@@ -1,0 +1,16 @@
+{
+  "thresholdLines": 300,
+  "commitMessagePrefix": "chore: auto-save",
+  "remote": "origin",
+  "branch": null,
+  "excludeGlobs": [
+    "**/*.pdf",
+    "**/*.png",
+    "**/*.jpg",
+    "**/*.jpeg",
+    "**/*.gif",
+    "**/*.webp",
+    "**/*.zip",
+    "**/*.exe"
+  ]
+}

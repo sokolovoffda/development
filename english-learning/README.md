@@ -6,6 +6,19 @@
 
 ---
 
+## Согласованный workflow
+
+1. **Notes** — ментор пишет конспект темы в `notes/phase-N/` *до* или вместе с заданием.
+2. **Assignments** — ментор выдаёт задание в `assignments/phase-N/NN-….md`.
+3. Ты читаешь note → пишешь только в `## Your answer` → Status `review` → в чате «проверь …».
+4. Ментор **не меняет** твой ответ; ниже в `## Mentor feedback` — правильный вариант + комментарии; обновляет error bank / progress / статус темы.
+5. **Чат** — вопросы по ходу. Если вопрос в рамках **текущей фазы**, ментор кратко отвечает и при необходимости фиксирует в `notes/phase-N/faq.md` (или дописывает в note темы).
+6. Вопросы «далеко вперёд» (другая фаза / весь английский сразу) — коротко в чате, в notes фазы не раздуваем.
+
+Ритм слотов и лимиты (0–5 новых chunks/день и т.д.) — в [plan.md](plan.md).
+
+---
+
 ## Документы
 
 | Файл | Назначение |
@@ -16,33 +29,22 @@
 | [phases/phase-1.md](phases/phase-1.md) | План Phase 1 (active) + exit criteria + чеклист тем |
 | [phases/phase-2.md](phases/phase-2.md) | План Phase 2 (planned) |
 | [phases/phase-3.md](phases/phase-3.md) | План Phase 3 (planned) |
-| [progress.md](progress.md) | **Как трекаем** + session/weekly log + error bank + чекпоинты |
-| [assignments/](assignments/README.md) | Задания по фазам (твой ответ не правим — feedback ниже) |
-| [notes/](notes/phase-1/01-present-simple.md) | Мини-конспекты тем (грамматика / chunks) |
+| [progress.md](progress.md) | Трекинг: session/weekly log + error bank + чекпоинты |
+| [assignments/](assignments/README.md) | Задания по фазам |
+| [notes/](notes/README.md) | Конспекты тем + FAQ фазы |
 | [resources.md](resources.md) | Ресурсы |
 
 ---
 
 ## Как фиксируется прогресс (кратко)
 
-1. **Тема** закрыта → галочка/статус в `phases/phase-N.md`.
-2. **Сессия в чате** → запись в Session log (`progress.md`).
-3. **Неделя** → Weekly log (listening days, writing, speaking).
+1. **Тема** закрыта → статус в `phases/phase-N.md`.
+2. **Задание** разобрано → `Mentor feedback` + Status `done`.
+3. **Сессия / неделя** → `progress.md`.
 4. **Ошибки** → Error bank (`open` → `review` → `done`).
-5. **Раз в ~4 недели** → Checkpoint (новый текст + R/L/W/S).
-6. **Конец фазы** → Exit criteria в файле фазы; потом детализируем следующую phase-файл.
-
-Подробности — в начале [progress.md](progress.md).
-
----
-
-## Как работать в этом чате
-
-1. Текущая фаза = файл в `phases/` со статусом `active`.
-2. Задания — в `assignments/phase-N/`; пишешь только в `## Your answer`; ментор пишет разбор в `## Mentor feedback` **ниже**, не трогая твой текст.
-3. Короткие ежедневные слоты по `plan.md` + фокус недели из phase-файла.
-4. Часто пишешь на EN; правки — макс. 3 главных пункта за раз.
-5. Ментор обновляет доки; можешь попросить «запиши неделю», если итог забыли.
+5. **FAQ** по фазе → `notes/phase-N/faq.md`.
+6. **Раз в ~4 недели** → Checkpoint.
+7. **Конец фазы** → Exit criteria; детализируем следующий phase-файл.
 
 ---
 
@@ -50,4 +52,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Следующий шаг:** задание [assignments/phase-1/01-present-simple.md](assignments/phase-1/01-present-simple.md)
+- **Сейчас:** конспект [Present Simple](notes/phase-1/01-present-simple.md) → задание [P1-01](assignments/phase-1/01-present-simple.md) (когда скажешь «готов»)

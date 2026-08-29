@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "hooks": {
+    "stop": [
+      {
+        "command": "node .cursor/hooks/auto-push-on-threshold.mjs",
+        "timeout": 120
+      }
+    ]
+  }
+}

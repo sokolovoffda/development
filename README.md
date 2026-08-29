@@ -25,8 +25,12 @@
 ```text
 development/
 ├── README.md                 ← этот файл (единый контекст для всех чатов)
-├── .cursor/rules/            ← правила Cursor: в каждом чате читать README
-│   └── project-context.mdc
+├── .cursor/
+│   ├── rules/project-context.mdc   ← alwaysApply: читать README
+│   ├── hooks.json                  ← stop → auto-push по порогу строк
+│   └── hooks/
+│       ├── auto-push-on-threshold.mjs
+│       └── auto-push.config.json   ← thresholdLines (сейчас 300)
 ├── english-learning/         ← изучение английского
 └── professional-skills/      ← улучшение проф. качеств
     └── Effektivnyy-TypeScript_RuLit_Me_620115.pdf
@@ -34,6 +38,15 @@ development/
 ```
 
 Правило `.cursor/rules/project-context.mdc` с `alwaysApply: true` подключается во все чаты этого workspace и требует сначала читать этот README.
+
+### Авто-push по порогу строк
+
+В конце хода агента (`stop` hook): если незакоммиченных **текстовых** изменений ≥ `thresholdLines` (по умолчанию **300**) → `git add -A` → commit → `git push` на `origin`.
+
+- Порог и исключения: `.cursor/hooks/auto-push.config.json`
+- PDF/картинки и т.п. **не входят** в подсчёт строк (но попадут в commit, если уже в working tree и сработал порог по тексту)
+- Логи: Cursor → Hooks output / channel
+- Это **исключение** из правила «коммит только по просьбе» — только для этого репозитория и только через hook
 
 Папки направлений пока минимальные. Внутреннюю структуру (планы, конспекты, exercises) добавляем по мере проработки в архитектурном чате.
 
@@ -66,7 +79,7 @@ development/
 - Учебные заметки и обсуждение с агентом — **на русском** (если не оговорено иное).
 - Не дублировать сюда код/wiki dealing-console-ui: ссылаться на `.ai` и исходники продукта.
 - Изменения структуры репозитория и этого README — предпочтительно в архитектурном чате.
-- Коммиты — только по явной просьбе.
+- Коммиты вручную — только по явной просьбе; исключение: auto-push hook при ≥300 строк (см. выше).
 
 ---
 
@@ -87,3 +100,4 @@ development/
 | 2026-08-29 | Этот README — единый контекст для всех чатов; архитектура vs направления разделены по чатам |
 | 2026-08-29 | В `professional-skills` добавлена книга «Эффективный TypeScript» |
 | 2026-08-29 | Добавлен `.cursor/rules/project-context.mdc` (alwaysApply → читать README) |
+| 2026-08-29 | Stop-hook auto-push: порог 300 текстовых строк → commit + push |
