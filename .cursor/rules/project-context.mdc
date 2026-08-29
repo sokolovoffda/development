@@ -1,0 +1,22 @@
+---
+description: Project context — always read root README before working
+alwaysApply: true
+---
+
+# Study / development — context bootstrap
+
+This repo is for professional development (English + skills), not product code.
+
+## Before answering or editing
+
+1. Read `README.md` at the repo root — single source of truth for purpose, chat roles, structure, and conventions.
+2. Then work only in the track relevant to the current chat:
+   - `english-learning/` — English
+   - `professional-skills/` — professional skills (e.g. TypeScript)
+3. Repo structure, this rule, and updates to `README.md` belong in the **architecture** chat unless the user explicitly asks otherwise.
+
+## Do not
+
+- Invent folder layout that contradicts `README.md`
+- Copy dealing-console-ui code/wiki here — link to `dealing-console-ui\.ai` when needed
+- Commit unless the user asks
