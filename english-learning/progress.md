@@ -43,6 +43,13 @@
 
 ## Session log
 
+### 2026-08-30 — Modes: ПК / телефон
+
+- Зафиксированы **два режима** сессии в `README.md`, `profile.md`, `assignments/README.md`.
+- Телефон: теория + задание в чате → ответ сообщением → ментор заносит в файл + Mentor feedback.
+- ПК: как раньше — файлы notes/assignments.
+- **Next:** P1-01 Present Simple (когда скажешь «готов» / «с телефона»).
+
 ### 2026-08-29 — Setup (не учебная сессия)
 
 - Созданы профиль, assessment, overview plan, phases 1–3, progress protocol, resources.
