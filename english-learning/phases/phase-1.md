@@ -30,7 +30,7 @@
 
 | # | Тема | Статус | Дата закрытия |
 |---|------|--------|---------------|
-| 1 | Present Simple: *I work / I develop / He works* — [конспект](../notes/phase-1/01-present-simple.md) · [P1-01](../assignments/phase-1/01-present-simple.md) | pending | |
+| 1 | Present Simple: *I work / I develop / He works* — [конспект](../notes/phase-1/01-present-simple.md) · [P1-01](../assignments/phase-1/01-present-simple.md) | in progress | |
 | 2 | Present Continuous vs Simple: *I’m working* | pending | |
 | 3 | Prepositions: *at work, in a bank, on Monday* | pending | |
 | 4 | Articles: *a / an / the* (короткий свод) | pending | |

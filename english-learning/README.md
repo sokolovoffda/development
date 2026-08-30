@@ -70,4 +70,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** конспект [Present Simple](notes/phase-1/01-present-simple.md) → задание [P1-01](assignments/phase-1/01-present-simple.md) (когда скажешь «готов»)
+- **Сейчас:** Theme 1 Present Simple — [P1-01](assignments/phase-1/01-present-simple.md) `in_progress` (режим телефон/ПК)
