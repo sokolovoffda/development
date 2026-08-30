@@ -4,7 +4,7 @@
 |--|--|
 | Phase | 1 |
 | Theme | 1 — Present Simple |
-| Status | todo |
+| Status | in_progress |
 
 Перед заданием прочитай конспект: [notes/phase-1/01-present-simple.md](../../notes/phase-1/01-present-simple.md).
 
