@@ -70,4 +70,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 1 Present Simple — [P1-01](assignments/phase-1/01-present-simple.md) `in_progress` (режим телефон/ПК)
+- **Сейчас:** P1-01 Present Simple — `done` · дальше: Anki новых chunks или Theme 2 (Continuous vs Simple)

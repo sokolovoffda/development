@@ -43,6 +43,14 @@
 
 ## Session log
 
+### 2026-08-30 — P1-01 Present Simple (телефон)
+
+- Режим: телефон. Теория в чате → ответ в чате → занесено в assignment.
+- Writing: P1-01 сдан; Status `done`. Оценка 7/10 — база Simple ок, chunks/предлоги/артикли слабее.
+- Сильные: *I work / I am / I develop / At work / My stack is / He works*.
+- Error bank: +3 новых; старые *I working / On work / My stack it is* → `review` (в этом тексте не повторил).
+- **Next:** Anki из новых chunks; по желанию 4 предложения-монолог вслух (шаблон Phase 1) или Theme 2.
+
 ### 2026-08-30 — Modes: ПК / телефон
 
 - Зафиксированы **два режима** сессии в `README.md`, `profile.md`, `assignments/README.md`.
@@ -76,20 +84,25 @@
 
 | Chunk / ошибка | Правильно | Статус | Phase |
 |----------------|-----------|--------|-------|
-| I am programmist | I am a programmer / developer | open | 1 |
-| I working | I work / I am working | open | 1 |
-| On work | At work | open | 1 |
-| i development | I develop | open | 1 |
+| I am programmist | I am a programmer / developer | review | 1 |
+| I working | I work / I am working | review | 1 |
+| On work | At work | review | 1 |
+| i development | I develop | review | 1 |
 | traiders | traders | open | 1 |
-| My stack it is | My stack is | open | 1 |
+| My stack it is | My stack is | review | 1 |
 | neen / live | need / life | open | 1 |
 | I want free reading | I want to read … freely | open | 1 |
 | when i journey | when I travel | open | 1 |
 | I dont target | I don’t have a (clear) goal | open | 1 |
 | i very want know | I really want to learn / know | open | 1 |
+| for a traders / app for a traders | an app for traders | open | 1 |
+| up my competition | improve my skills / competitiveness | open | 1 |
+| work at many time | work a lot / work long hours | open | 1 |
+| works ten years | has ten years of experience / has worked for ten years | open | 1 |
 
 ---
 
 ## Wins
 
 - 2026-08-29: диагностика + отдельные phase-планы + явный протокол трекинга.
+- 2026-08-30: P1-01 — Present Simple без *I working / On work / My stack it is*; связный текст о команде.
