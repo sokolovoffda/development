@@ -9,6 +9,7 @@
 **О:** Смотри, **какой глагол — главный** в предложении.
 
 **1. Главный глагол = *be* (*am/is/are*)** → вопрос через **Am / Is / Are**:
+
 - *You **are** busy.* → ***Are** you busy?*
 - *You **are** a developer.* → ***Are** you a developer?*
 - *You **are** usually busy.* → ***Are** you usually busy?*
@@ -16,6 +17,7 @@
 После *are* идёт **прилагательное** (*busy*) или **существительное** (*a developer*). Не *Do you busy* — так нельзя.
 
 **2. Главный глагол = любой другой** (*work, keep, develop, have…*) → вопрос через **Do / Does**:
+
 - *You **work** remotely.* → ***Do** you work remotely?*
 - *You **keep** busy.* → ***Do** you keep busy?*
 - *He **develops** apps.* → ***Does** he develop apps?*
@@ -24,12 +26,16 @@
 
 **Мини-правило:** если в утверждении есть *am/is/are* + прилагательное/имя → вопрос *Am/Is/Are*. Если обычный глагол → *Do/Does*.
 
-| Утверждение | Вопрос |
-|-------------|--------|
-| You **are** busy. | **Are** you busy? |
+
+| Утверждение               | Вопрос                    |
+| ------------------------- | ------------------------- |
+| You **are** busy.         | **Are** you busy?         |
 | You **are** usually busy. | **Are** you usually busy? |
-| You **work** a lot. | **Do** you work a lot? |
-| You **keep** busy. | **Do** you keep busy? |
+| You **work** a lot.       | **Do** you work a lot?    |
+| You **keep** busy.        | **Do** you keep busy?     |
+
+
+
 
 ### 2026-08-31 — *Are you busy?* — сейчас или «вообще занятой»?
 
@@ -54,30 +60,37 @@
 
 1. **Это не «роды».** В английском у глагола нет муж/жен как в русском. *am / is / are* зависят от **кто** (*I / he-she-it / you-we-they*), не от пола.
 2. **be** и **do** — разные вещи:
-   - *be* (*am/is/are*) = смысловой «есть / являться» (*I am a developer*) и позже ещё помощник в Continuous.
-   - *do/does* = **только помощники** для ? и «не» в Present Simple у обычных глаголов (*work, develop*).
-3. **Времена:** у каждого времени свои формы — не один глагол «переключает всё».  
-   Сейчас (Phase 1): Present Simple → *work/works*, вопросы/«не» через *do/does*, факты с *am/is/are*.  
+  - *be* (*am/is/are*) = смысловой «есть / являться» (*I am a developer*) и позже ещё помощник в Continuous.
+  - *do/does* = **только помощники** для ? и «не» в Present Simple у обычных глаголов (*work, develop*).
+3. **Времена:** у каждого времени свои формы — не один глагол «переключает всё».
+  Сейчас (Phase 1): Present Simple → *work/works*, вопросы/«не» через *do/does*, факты с *am/is/are*.  
    Прошлое (*was/were*, *did*) — позже, не смешивай сейчас.
 
 **Мини-схема только Present Simple:**
 
-| Нужно сказать | Обычный глагол (*work*) | Глагол *be* |
-|---------------|-------------------------|-------------|
-| Факт | I work. He works. | I am… He is… |
-| «Не» | I don’t work. He doesn’t work. | I am not… He isn’t… |
-| Вопрос | Do you work? Does he work? | Are you…? Is he…? |
+
+| Нужно сказать | Обычный глагол (*work*)        | Глагол *be*         |
+| ------------- | ------------------------------ | ------------------- |
+| Факт          | I work. He works.              | I am… He is…        |
+| «Не»          | I don’t work. He doesn’t work. | I am not… He isn’t… |
+| Вопрос        | Do you work? Does he work?     | Are you…? Is he…?   |
+
+
+
 
 ### 2026-08-29 — Что такое *do / does*?
 
 **В:** Что такое do/does?
 
 **О:** В Present Simple это **вспомогательные** слова для **вопроса** и **отрицания** (не главный смысл «делать»).  
+
 - *Do you work…?* / *I don’t work…* — для I/you/we/they  
 - *Does he work…?* / *He doesn’t work…* — для he/she/it  
 После *do/does* глагол **без -s**: *Does he develop software?*  
 В обычном утверждении они **не нужны**: *I work. He works.*  
 С *be* (*am/is/are*) *do/does* не ставят.
+
+
 
 ### 2026-08-29 — Что такое глагол *be*? Он показывает время?
 
@@ -92,3 +105,23 @@
 **В:** Должен ли я учить 5–10 новых слов в день?
 
 **О:** Нет. Лимит: **0–5 новых chunks в день**; день только с повтором Anki — нормально. См. `plan.md` / `resources.md`.
+
+
+
+**Моя заметка по present simple и present continious**
+
+**Present simple - что происход обычно, часто и тд**
+
+Утверждение - am/is/are Например: I am a developer. I/He work/s in a bug company. - с глаголом без be
+
+Отрицание - I am not a developer. be + not. I/He don't/doesn't work in a big company. - don't/doesn't с глаголами при отрицании.
+
+Вопрос Do/Does: Does he work (без с)? Do you like a coffee?
+
+**Present Continious**
+
+Утверждение
+
+Отрицание
+
+Вопрос

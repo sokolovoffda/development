@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-08-31 — P1-02b drill (отрицания)
+
+- P1-02b сдан; **8/10**. Прогресс vs P1-02: *isn't deploying to production*, *He is not busy*, *We aren't testing* — ок.
+- Слабое: *I don't a backend* (→ *I'm not a*); *She isn't work* (→ *doesn't work*); *Do they busy* (→ *Are they usually busy*); *work as a*; *amn't* → *I'm not*
+- **Next:** Theme 3 prepositions.
+
 ### 2026-08-31 — P1-02 перевод (Simple + Continuous)
 
 - P1-02 сдан; Status `done`. Оценка **7.5/10**.
@@ -51,6 +57,7 @@
 - Слабое: *am't/are't* (→ *am not / isn't / aren't*); артикли *a*; *She aren't* → *She isn't*; *work as a*; spelling *colleague, remotely, usually*
 - Error bank: +5 пунктов (отрицания, артикли, *deploy to production*)
 - **Next:** Theme 3 prepositions или 5 предложений только на отрицания.
+- **Drill:** [P1-02b](../assignments/phase-1/02b-drill-negatives.md) — закрепление отрицаний + артикли (14 предл.).
 
 ### 2026-08-31 — Vocabulary check + Theme 2 start
 
@@ -128,7 +135,11 @@
 | English important | English is important (for me) | open | 1 |
 | leader digital technology | a leader in digital technology | open | 1 |
 | She aren't (she) | She isn't / She is not | open | 1 |
-| am't / are't | I'm not / am not; isn't / aren't | open | 1 |
+| amn't | I'm not / I am not | review | 1 |
+| I don't a (profession) | I'm not a … | open | 1 |
+| She isn't work | She doesn't work | open | 1 |
+| Do they busy | Are they usually busy? | open | 1 |
+| Do you QA-engineer | Are you a QA engineer? | open | 1 |
 | work frontend-developer | I work as a frontend developer | open | 1 |
 | My stack is a Vue | My stack is Vue 3 and Pinia | open | 1 |
 | on the production | to production | open | 1 |

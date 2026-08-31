@@ -71,4 +71,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 3 prepositions (следующая) · P1-02 `done`
+- **Сейчас:** Theme 3 prepositions — следующая · Theme 2 `done`
