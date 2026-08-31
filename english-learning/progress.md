@@ -44,12 +44,20 @@
 
 ## Session log
 
+### 2026-08-31 — P1-02 перевод (Simple + Continuous)
+
+- P1-02 сдан; Status `done`. Оценка **7.5/10**.
+- Сильное: *Do/Does* vs *Are/Is* в вопросах; *doesn't*; Continuous *-ing*; *usually* + *Is he…*
+- Слабое: *am't/are't* (→ *am not / isn't / aren't*); артикли *a*; *She aren't* → *She isn't*; *work as a*; spelling *colleague, remotely, usually*
+- Error bank: +5 пунктов (отрицания, артикли, *deploy to production*)
+- **Next:** Theme 3 prepositions или 5 предложений только на отрицания.
+
 ### 2026-08-31 — Vocabulary check + Theme 2 start
 
 - Vocabulary batch #1: 8/10 `done`; **remotely**, **improve** → `review`.
 - Theme 1 Present Simple → `done`.
 - Theme 2 Continuous vs Simple → `in_progress`; конспект + P1-02 созданы.
-- **Next:** задание P1-02 (6–8 предложений, Simple + Continuous).
+- **Next:** задание P1-02 (перевод RU→EN: Simple + Continuous + be/do·does).
 
 ### 2026-08-31 — Monolog drill Q1–7 (телефон, Present Simple)
 
@@ -119,7 +127,13 @@
 | for a banks | for banks | open | 1 |
 | English important | English is important (for me) | open | 1 |
 | leader digital technology | a leader in digital technology | open | 1 |
-| She (company) | It develops… | open | 1 |
+| She aren't (she) | She isn't / She is not | open | 1 |
+| am't / are't | I'm not / am not; isn't / aren't | open | 1 |
+| work frontend-developer | I work as a frontend developer | open | 1 |
+| My stack is a Vue | My stack is Vue 3 and Pinia | open | 1 |
+| on the production | to production | open | 1 |
+| collegue / remotelly / usuallu | colleague / remotely / usually | open | 1 |
+| a developer / a bug (missing a) | Are you **a** developer? · fixing **a** bug | open | 1 |
 
 ---
 

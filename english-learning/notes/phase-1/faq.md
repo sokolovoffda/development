@@ -2,6 +2,50 @@
 
 Вопросы из чата, которые остаются полезными в рамках Phase 1. Формат: вопрос → короткий ответ. Новые сверху.
 
+### 2026-08-31 — Почему *Are you…?*, а где-то *Do you…?*
+
+**В:** Почему в одних вопросах *are*, в других *do*? Из‑за этого и путаница с «занят сейчас / вообще».
+
+**О:** Смотри, **какой глагол — главный** в предложении.
+
+**1. Главный глагол = *be* (*am/is/are*)** → вопрос через **Am / Is / Are**:
+- *You **are** busy.* → ***Are** you busy?*
+- *You **are** a developer.* → ***Are** you a developer?*
+- *You **are** usually busy.* → ***Are** you usually busy?*
+
+После *are* идёт **прилагательное** (*busy*) или **существительное** (*a developer*). Не *Do you busy* — так нельзя.
+
+**2. Главный глагол = любой другой** (*work, keep, develop, have…*) → вопрос через **Do / Does**:
+- *You **work** remotely.* → ***Do** you work remotely?*
+- *You **keep** busy.* → ***Do** you keep busy?*
+- *He **develops** apps.* → ***Does** he develop apps?*
+
+После *do/does* — глагол в **базовой форме** (*work*, не *works*).
+
+**Мини-правило:** если в утверждении есть *am/is/are* + прилагательное/имя → вопрос *Am/Is/Are*. Если обычный глагол → *Do/Does*.
+
+| Утверждение | Вопрос |
+|-------------|--------|
+| You **are** busy. | **Are** you busy? |
+| You **are** usually busy. | **Are** you usually busy? |
+| You **work** a lot. | **Do** you work a lot? |
+| You **keep** busy. | **Do** you keep busy? |
+
+### 2026-08-31 — *Are you busy?* — сейчас или «вообще занятой»?
+
+**В:** *Are you busy?* — это «занят сейчас»? Как спросить «ты вообще занятой человек»?
+
+**О:**
+
+- ***Are you busy?*** — чаще **сейчас / в ближайшее время**: «есть минутка?», «не отвлекаю?». Иногда просто «много дел?» — смотри по контексту.
+- **Вообще, как характеристика / привычка** → Present Simple:
+  - *Are you **usually** busy?* — ты обычно занят?
+  - *Are you **a busy person**?* — ты (вообще) занятой человек?
+  - *Do you **keep busy**?* — ты любишь/привык быть занятым?
+  - *Is your schedule **usually** packed?* — у тебя обычно плотный график?
+
+Маркеры **usually / always / often** = Simple (привычка). **Now / at the moment / right now** = чаще Continuous или *Are you busy?* про «сейчас».
+
 ### 2026-08-29 — Путаница: *do/does* и *be* — это «разные времена»?
 
 **В:** Получается, есть *do/does* (разные во временах) и *be* (разный для родов и времён)?

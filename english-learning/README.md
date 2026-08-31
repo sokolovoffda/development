@@ -71,4 +71,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 2 Continuous vs Simple — [P1-02](assignments/phase-1/02-continuous-vs-simple.md) `in_progress`
+- **Сейчас:** Theme 3 prepositions (следующая) · P1-02 `done`

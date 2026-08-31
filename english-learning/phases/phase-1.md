@@ -31,7 +31,7 @@
 | # | Тема | Статус | Дата закрытия |
 |---|------|--------|---------------|
 | 1 | Present Simple: *I work / I develop / He works* — [конспект](../notes/phase-1/01-present-simple.md) · [P1-01](../assignments/phase-1/01-present-simple.md) | done | 2026-08-31 |
-| 2 | Present Continuous vs Simple: *I’m working* — [конспект](../notes/phase-1/02-present-continuous-vs-simple.md) · [P1-02](../assignments/phase-1/02-continuous-vs-simple.md) | in progress | |
+| 2 | Present Continuous vs Simple: *I’m working* — [конспект](../notes/phase-1/02-present-continuous-vs-simple.md) · [P1-02](../assignments/phase-1/02-continuous-vs-simple.md) | done | 2026-08-31 |
 | 3 | Prepositions: *at work, in a bank, on Monday* | pending | |
 | 4 | Articles: *a / an / the* (короткий свод) | pending | |
 | 5 | Chunks: *I want to + V*, *I need to + V*, *I don’t have…* | pending | |
