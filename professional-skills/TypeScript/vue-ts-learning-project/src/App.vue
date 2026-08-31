@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import LabRunner from './components/LabRunner.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <LabRunner />
 </template>
