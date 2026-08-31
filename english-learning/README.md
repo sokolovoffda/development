@@ -51,6 +51,7 @@
 | [assignments/](assignments/README.md) | Задания по фазам |
 | [notes/](notes/README.md) | Конспекты тем + FAQ фазы |
 | [resources.md](resources.md) | Ресурсы |
+| [vocabulary.md](vocabulary.md) | **Единый список** слов/chunks для Anki (ментор докидывает 0–5 за сессию) |
 
 ---
 
