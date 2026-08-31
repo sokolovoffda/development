@@ -14,6 +14,7 @@
 | Домашнее задание | Выдача / сдача / разбор | `assignments/phase-N/NN-….md` | ты = Your answer; ментор = Mentor feedback (блок ответа не трогает) |
 | Вопрос в рамках фазы | По ходу чата | ответ в чате + при необходимости `notes/phase-N/faq.md` | ментор |
 | Error bank | После разбора письма/речи | § Error bank | ментор |
+| Слова / chunks для Anki | 0–5 за сессию | [vocabulary.md](vocabulary.md) (единый список) | ментор |
 | Чекпоинт (R/L/W/S + новый текст) | Каждые **~4 недели** | § Checkpoints + образец | оба |
 | Exit criteria фазы | Когда кандидаты на переход | `phases/phase-N.md` галочки | оба |
 | Wins / блокеры | По факту | § Wins / Weekly log | оба |
@@ -99,7 +100,8 @@
 | traiders | traders | open | 1 |
 | My stack it is | My stack is | review | 1 |
 | neen / live | need / life | open | 1 |
-| I want free reading | I want to read … freely | open | 1 |
+| I want free reading | I want to read … freely | review | 1 |
+| I want read (no to) | I want to read | review | 1 |
 | when i journey | when I travel | open | 1 |
 | I dont target | I don’t have a (clear) goal | open | 1 |
 | i very want know | I really want to learn / know | open | 1 |
@@ -107,6 +109,10 @@
 | up my competition | improve my skills / competitiveness | open | 1 |
 | work at many time | work a lot / work long hours | open | 1 |
 | works ten years | has ten years of experience / has worked for ten years | open | 1 |
+| for a banks | for banks | open | 1 |
+| English important | English is important (for me) | open | 1 |
+| leader digital technology | a leader in digital technology | open | 1 |
+| She (company) | It develops… | open | 1 |
 
 ---
 
@@ -114,3 +120,4 @@
 
 - 2026-08-29: диагностика + отдельные phase-планы + явный протокол трекинга.
 - 2026-08-30: P1-01 — Present Simple без *I working / On work / My stack it is*; связный текст о команде.
+- 2026-08-31: монолог Q&A — *Yes, I do / No, I don’t*, *he develops*, финальный текст о работе и стеке.
