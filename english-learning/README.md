@@ -71,4 +71,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** P1-01 Present Simple — `done` · дальше: Anki новых chunks или Theme 2 (Continuous vs Simple)
+- **Сейчас:** Theme 2 Continuous vs Simple — [P1-02](assignments/phase-1/02-continuous-vs-simple.md) `in_progress`

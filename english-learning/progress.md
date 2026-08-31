@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-08-31 — Vocabulary check + Theme 2 start
+
+- Vocabulary batch #1: 8/10 `done`; **remotely**, **improve** → `review`.
+- Theme 1 Present Simple → `done`.
+- Theme 2 Continuous vs Simple → `in_progress`; конспект + P1-02 созданы.
+- **Next:** задание P1-02 (6–8 предложений, Simple + Continuous).
+
 ### 2026-08-31 — Monolog drill Q1–7 (телефон, Present Simple)
 
 - Формат: 7 вопросов → ответы в чате; финальный монолог 4–6 предложений.
