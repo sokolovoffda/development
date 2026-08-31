@@ -106,22 +106,16 @@
 
 **О:** Нет. Лимит: **0–5 новых chunks в день**; день только с повтором Anki — нормально. См. `plan.md` / `resources.md`.
 
+**Моя заметка по Present Simple и Present Continuous**
 
+**Present Simple — что происходит обычно, часто и т.д.**
 
-**Моя заметка по present simple и present continious**
+- **Утверждение:** *am/is/are* → *I am a developer.* Обычный глагол (без *be*): *I work / He works in a big company.*
+- **Отрицание:** *be + not* → *I am not a developer.* Обычный глагол → *I/He don't/doesn't work in a big company.*
+- **Вопрос:** *Do/Does* + глагол без *-s* → *Does he work?* · *Do you like coffee?*
 
-**Present simple - что происход обычно, часто и тд**
+**Present Continuous — то, что происходит в текущий момент**
 
-Утверждение - am/is/are Например: I am a developer. I/He work/s in a bug company. - с глаголом без be
-
-Отрицание - I am not a developer. be + not. I/He don't/doesn't work in a big company. - don't/doesn't с глаголами при отрицании.
-
-Вопрос Do/Does: Does he work (без с)? Do you like a coffee?
-
-**Present Continious**
-
-Утверждение
-
-Отрицание
-
-Вопрос
+- **Утверждение:** *am/is/are + -ing* → *I am working on the task now. He is fixing a bug now.*
+- **Отрицание:** *am/is/are + not + -ing* → *I am not walking now. He is not sleeping now.*
+- **Вопрос:** *Am/Is/Are + … + -ing?* → *Are they going to lunch? Is he running now?*
