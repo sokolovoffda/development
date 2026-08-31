@@ -1,17 +1,22 @@
-# Vocabulary / chunks (единый список)
+# Vocabulary (единый список слов)
 
-Один список на весь трек. Ментор **докидывает** сюда 0–5 пунктов за сессию (из error bank, заданий, монолога). Ты повторяешь в Anki / утреннем слоте.
+Один список на весь трек. Ментор **докидывает** сюда новые **слова** (не фразы) — обычно **~10 за сессию** или по запросу. Часть может быть «уже знакомо» — это нормально, так идёт повторение.
 
-**Формат строки:** chunk на EN · кратко по-русски · пример · дата добавления · статус (`new` → `review` → `done`).
+**Формат:** слово EN · перевод · короткий пример · дата · статус (`new` → `review` → `done`).
 
-Лимит новых в день по плану: **0–5** (см. [plan.md](plan.md)).
+Фразы и грамматические chunks → [progress.md](progress.md) (error bank), сюда только **отдельные слова**.
 
 ---
 
-| # | Chunk / expression | По-русски | Example | Added | Status |
-|---|-------------------|-----------|---------|-------|--------|
-| 1 | **I want to read** | я хочу читать (*want to* + глагол) | I want to read technical docs. | 2026-08-31 | new |
-| 2 | **English is important for me** | английский важен для меня (нужен *is*) | English is important for my work. | 2026-08-31 | new |
-| 3 | **for banks** | для банков (*for* + мн.ч., без *a*) | It develops software for banks. | 2026-08-31 | new |
-| 4 | **an app for traders** | приложение для трейдеров (*an* + ед.ч.) | At work I develop an app for traders. | 2026-08-31 | new |
-| 5 | **improve my skills** | прокачать навыки (не *up my competition*) | I need to improve my skills. | 2026-08-31 | new |
+| # | Word | По-русски | Example | Added | Status |
+|---|------|-----------|---------|-------|--------|
+| 1 | **trader** | трейдер | I develop apps for traders. | 2026-08-31 | new |
+| 2 | **colleague** | коллега | My colleague Sergey is a team lead. | 2026-08-31 | new |
+| 3 | **experience** | опыт | He has ten years of experience. | 2026-08-31 | new |
+| 4 | **remotely** | удалённо | I work remotely. | 2026-08-31 | new |
+| 5 | **professional** | профессиональный | They are really professional. | 2026-08-31 | new |
+| 6 | **integrate** | интегрировать | He integrates AI into our work. | 2026-08-31 | new |
+| 7 | **skill** | навык | I need to improve my skills. | 2026-08-31 | new |
+| 8 | **improve** | улучшать | I want to improve my English. | 2026-08-31 | new |
+| 9 | **documentation** | документация | I read technical documentation. | 2026-08-31 | new |
+| 10 | **important** | важный | English is important for me. | 2026-08-31 | new |
