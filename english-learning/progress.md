@@ -43,6 +43,14 @@
 
 ## Session log
 
+### 2026-08-31 — Monolog drill Q1–7 (телефон, Present Simple)
+
+- Формат: 7 вопросов → ответы в чате; финальный монолог 4–6 предложений.
+- Пробито: *be* (*I am*), обычный глагол (*I work / develop*), *My stack is*, *At work*, *he works / develops*, *don’t / doesn’t*, *Yes, I do / No, I don’t*, *want to / need*.
+- Финальный монолог: **6.5/10** — структура ок, повтор *I want read* (без *to*), артикли (*for a banks*), *English is important*.
+- Error bank: *I want to read* → `review` (повтор); +*English is important*, *for banks*, *a leader in digital technology*.
+- **Next:** Anki 3–5 карточек; Theme 2 Continuous vs Simple или повтор монолога вслух.
+
 ### 2026-08-30 — P1-01 Present Simple (телефон)
 
 - Режим: телефон. Теория в чате → ответ в чате → занесено в assignment.
