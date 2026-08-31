@@ -1,0 +1,4 @@
+{
+  "typescript.tsdk": "professional-skills/TypeScript/vue-ts-learning-project/node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
