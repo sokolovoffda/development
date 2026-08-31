@@ -22,3 +22,13 @@
 | 8 | **improve** | им-**пру́в** | улучшать | I want to improve my English. | 2026-08-31 | review |
 | 9 | **documentation** | док-ю-мен-**те́й**-шн | документация | I read technical documentation. | 2026-08-31 | done |
 | 10 | **important** | им-**по́**-тент | важный | English is important for me. | 2026-08-31 | done |
+| 11 | **refactor** | **рифа́ктэ** | переписывать/оптимизировать код (≠ «проверять») | We need to refactor this module. | 2026-08-31 | new |
+| 12 | **crucial** | **кру́шэл** | решающий, критически важный | Tests are crucial for this feature. | 2026-08-31 | new |
+| 13 | **despite** | дис**па́йт** | несмотря на | Despite the bugs, we released on time. | 2026-08-31 | new |
+| 14 | **grasp** | **гра́сп** | схватывать, улавливать (суть/мысль) | I can’t grasp this concept yet. | 2026-08-31 | new |
+| 15 | **vague** | вэйг | смутный, неясный | The requirements are too vague. | 2026-08-31 | new |
+| 16 | **actually** | **э́к**-чу-али | на самом деле (≠ actual — «актуальный») | Actually, I work as a frontend developer. | 2026-08-31 | new |
+| 17 | **probably** | **про́**-bab-li | вероятно (≠ practical — «практичный») | I will probably need English at work. | 2026-08-31 | new |
+| 18 | **certainly** | **сё́т**-nli | безусловно, обязательно | English is certainly important for me. | 2026-08-31 | new |
+| 19 | **especially** | is-**пэ́**-shə-li | особенно | I need English, especially for documentation. | 2026-08-31 | new |
+| 20 | **occasionally** | ek-**кэ́й**-zhə-nə-li | время от времени, изредка | I occasionally read docs in English. | 2026-08-31 | new |
