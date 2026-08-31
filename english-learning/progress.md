@@ -14,7 +14,7 @@
 | Домашнее задание | Выдача / сдача / разбор | `assignments/phase-N/NN-….md` | ты = Your answer; ментор = Mentor feedback (блок ответа не трогает) |
 | Вопрос в рамках фазы | По ходу чата | ответ в чате + при необходимости `notes/phase-N/faq.md` | ментор |
 | Error bank | После разбора письма/речи | § Error bank | ментор |
-| Слова / chunks для Anki | 0–5 за сессию | [vocabulary.md](vocabulary.md) (единый список) | ментор |
+| Слова для Anki | ~10 за сессию (или по запросу) | [vocabulary.md](vocabulary.md) (единый список **слов**) | ментор |
 | Чекпоинт (R/L/W/S + новый текст) | Каждые **~4 недели** | § Checkpoints + образец | оба |
 | Exit criteria фазы | Когда кандидаты на переход | `phases/phase-N.md` галочки | оба |
 | Wins / блокеры | По факту | § Wins / Weekly log | оба |
