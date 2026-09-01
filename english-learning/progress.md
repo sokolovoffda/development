@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-01 — Checkpoint test Theme 1+2 (части A+B)
+
+- Часть A (исправь ошибку): **5/5** — Simple/Continuous/отрицания ок; #1 опечатка `l` → `I`.
+- Часть B (перевод): **6/7** — слабое: #8 *develop* → *develops*, порядок *usually*, *API*; #13 *want read* → *want to read*.
+- Часть C (мини-текст): не сдана.
+- **Next:** часть C или Theme 3 prepositions.
+
 ### 2026-08-31 — P1-02b drill (отрицания)
 
 - P1-02b сдан; **8/10**. Прогресс vs P1-02: *isn't deploying to production*, *He is not busy*, *We aren't testing* — ок.
