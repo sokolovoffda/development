@@ -9,6 +9,12 @@ export function distance(v: Vector2D): number {
   return Math.hypot(v.x, v.y)
 }
 
+interface ScreenPoint{
+  x:number
+  y:number
+  label?: string
+}
+
 // --- TODO 1: Structural compatibility ---
 // Создай интерфейс ScreenPoint: x, y, опционально label?: string
 // Проверь: const asVector: Vector2D = screen — компилируется
@@ -26,30 +32,31 @@ export interface ContactCardModel {
   displayName: string
 }
 
-// export interface ApiContact { id, displayName, extension, presence? }
-// export function pickContactCardModel(api: ApiContact): ContactCardModel { ... }
+export interface ApiContact {
+  id: string
+  displayName: string
+  extension: string
+  presence?: 'available' | 'busy' | 'offline'
+}
+export function pickContactCardModel(api: ApiContact): ContactCardModel { 
+  return {
+    id:api.id,
+    displayName:api.displayName
+  }
+}
 
 // --- TODO 4 (опционально): excess property check ---
-// const badLiteral = { x: 1, y: 2, z: 3 }
-// distance(badLiteral)  // TS error — лишнее поле z на литерале
+const badLiteral = { x: 1, y: 2, z: 3 }
+distance(badLiteral)  // TS error — лишнее поле z на литерале
 
 export function runExercises(): LabCheck[] {
   return [checkTodo1(), checkTodo2(), checkTodo3()]
 }
 
 function checkTodo1(): LabCheck {
-  // Раскомментируй после TODO 1 и убери return-заглушку ниже
-  return {
-    id: '1',
-    description: 'ScreenPoint → Vector2D (structural assign)',
-    pass: false,
-    detail: 'Complete TODO 1, then update checkTodo1() to run your test',
-  }
-
-  // Пример после выполнения TODO 1:
-  // const screen: ScreenPoint = { x: 10, y: 20, label: 'monitor' }
-  // const asVector: Vector2D = screen
-  // return { id: '1', description: '...', pass: asVector.x === 10 && asVector.y === 20 }
+  const screen: ScreenPoint = { x: 10, y: 20, label: 'monitor' }
+  const asVector: Vector2D = screen
+  return { id: '1', description: 'ScreenPoint → Vector2D (structural assign)', pass: asVector.x === 10 && asVector.y === 20 }
 }
 
 function checkTodo2(): LabCheck {
@@ -64,14 +71,15 @@ function checkTodo2(): LabCheck {
 }
 
 function checkTodo3(): LabCheck {
+  const card = pickContactCardModel({
+    id: 'ext-42',
+    displayName: 'Sergey',
+    extension: '2042',
+    presence: 'available',
+  })
   return {
     id: '3',
     description: 'pickContactCardModel(api) returns ContactCardModel',
-    pass: false,
-    detail: 'Complete TODO 3 and call pickContactCardModel here',
+    pass: card.id === 'ext-42' && card.displayName === 'Sergey',
   }
-
-  // Пример после TODO 3:
-  // const card = pickContactCardModel({ id: 'ext-42', displayName: 'Sergey', extension: '2042', presence: 'available' })
-  // return { id: '3', description: '...', pass: card.id === 'ext-42' }
 }

@@ -43,8 +43,8 @@
 
 ## Текущий фокус
 
-**Phase 1 / Item 1** — structural vs nominal typing.
+**Phase 1 / Item 2** — `keyof`, lookup types `T[K]`.
 
-- Конспект: [notes/phase-1/01-structural-vs-nominal.md](notes/phase-1/01-structural-vs-nominal.md)
-- Задание: [assignments/phase-1/01-structural-vs-nominal.md](assignments/phase-1/01-structural-vs-nominal.md)
-- Lab: `vue-ts-learning-project/src/labs/ts-01-structural-typing/`
+- Конспект: [notes/phase-1/02-keyof-lookup-types.md](notes/phase-1/02-keyof-lookup-types.md)
+- Задание: [assignments/phase-1/02-keyof-lookup-types.md](assignments/phase-1/02-keyof-lookup-types.md)
+- Lab: `vue-ts-learning-project/src/labs/ts-02-keyof-lookup/`

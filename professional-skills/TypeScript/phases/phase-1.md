@@ -27,7 +27,7 @@
 | Item | Тема (кратко) | Статус | Конспект | Задание | Lab |
 |------|---------------|--------|----------|---------|-----|
 | 1 | Structural vs nominal typing | in_progress | [01](../notes/phase-1/01-structural-vs-nominal.md) | [TS-01](../assignments/phase-1/01-structural-vs-nominal.md) | [ts-01](../vue-ts-learning-project/src/labs/ts-01-structural-typing/) |
-| 2 | Keyof and lookup types | pending | — | — | — |
+| 2 | Keyof and lookup types | in_progress | [02](../notes/phase-1/02-keyof-lookup-types.md) | [TS-02](../assignments/phase-1/02-keyof-lookup-types.md) | [ts-02](../vue-ts-learning-project/src/labs/ts-02-keyof-lookup/) |
 | 3 | `any` — понимать и избегать | pending | — | — | — |
 | 4 | Prefer type aliases for object types | pending | — | — | — |
 | 5 | `any` vs `unknown` | pending | — | — | — |

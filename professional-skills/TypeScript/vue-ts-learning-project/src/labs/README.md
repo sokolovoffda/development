@@ -5,6 +5,7 @@
 | Lab | Item | Папка |
 |-----|------|-------|
 | ts-01 | 1 — Structural vs nominal | `ts-01-structural-typing/` |
+| ts-02 | 2 — keyof & lookup | `ts-02-keyof-lookup/` |
 
 ## Структура папки lab
 
