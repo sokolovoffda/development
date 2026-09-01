@@ -1,30 +1,35 @@
 # Labs
 
-Практика по item'ам книги. Одна папка = один lab.
+Практика по **62 правилам** книги «Эффективный TypeScript» (1-е изд.).
 
-| Lab | Item | Папка |
-|-----|------|-------|
-| ts-01 | 1 — Structural vs nominal | `ts-01-structural-typing/` |
-| ts-02 | 2 — keyof & lookup | `ts-02-keyof-lookup/` |
+**`ts-NN`** = правило **NN** в книге. Карта: [book-items.md](../../../../book-items.md).
 
-## Структура папки lab
+## Глава 1 (создано)
+
+| Lab | Правило | Тема |
+|-----|---------|------|
+| ts-01 | 1 | TypeScript и JavaScript |
+| ts-02 | 2 | Настройки TypeScript |
+| ts-03 | 3 | Независимость генерации кода |
+| ts-04 | 4 | Структурная типизация |
+| ts-05 | 5 | Ограничьте any |
+
+## Структура папки
 
 ```text
-ts-NN-slug/
-├── README.md      ← кратко: что делать
-├── exercises.ts   ← твой код + runExercises()
+ts-NN/
+├── exercises.ts   ← заготовка (код или комментарии)
 └── index.ts       ← экспорт lab runner
 ```
 
-## Как работать
+## Workflow
 
-1. Читай assignment в `../../assignments/phase-N/`.
-2. Редактируй `exercises.ts` (секции `TODO`).
-3. `npm run dev` — результаты на странице.
-4. `npm run build` — проверка типов (`vue-tsc`).
+1. «Разбираем правило N» → ментор наполняет `ts-NN/exercises.ts`
+2. Переключи активный lab в `active.ts`
+3. `npm run dev` — checks в браузере
 
-Активный lab: `src/labs/active.ts`.
+Правила 6–62 создаются **по мере прохождения**, не все сразу.
 
-## Свободные эксперименты
+## Эксперименты
 
-Не привязанные к заданию — в [`../playground/`](../playground/).
+[`../playground/`](../playground/) — без привязки к правилам.

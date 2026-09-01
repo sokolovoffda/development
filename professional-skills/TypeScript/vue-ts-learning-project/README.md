@@ -1,36 +1,28 @@
 # vue-ts-learning-project
 
-Песочница для трека **TypeScript + Vue 3**. Документация трека: [../README.md](../README.md).
+Песочница для **62 правил** «Эффективный TypeScript». Трек: [../README.md](../README.md) · [../book-items.md](../book-items.md).
 
-## Структура
+## Labs
 
 ```text
-src/
-├── labs/              ← задания по item'ам книги
-│   ├── active.ts      ← какой lab показывает App
-│   └── ts-01-…/
-├── playground/        ← свободные эксперименты
-├── components/
-│   └── LabRunner.vue
-└── App.vue
+src/labs/
+├── active.ts       ← какой lab в App
+├── ts-01/ … ts-05/ ← глава 1 (каркас)
+└── ts-06/ …        ← создаются по мере прохождения
 ```
 
 ## Команды
 
 ```bash
 npm install
-npm run dev      # браузер — вывод lab checks
+npm run dev      # LabRunner в браузере
 npm run build    # vue-tsc + vite build
 ```
 
-## Текущий lab
+## Переключить lab
 
-**ts-01** — Item 1, structural vs nominal typing.
+`src/labs/active.ts`:
 
-- Assignment: [TS-01](../assignments/phase-1/01-structural-vs-nominal.md)
-- Код: `src/labs/ts-01-structural-typing/exercises.ts`
-
-## Vue (кратко)
-
-- `<script setup lang="ts">` — Composition API + TS в SFC.
-- Сейчас UI минимальный: только runner для labs. Vue подключим сильнее с items про props/composables.
+```ts
+export { lab as activeLab } from './ts-04/index'
+```

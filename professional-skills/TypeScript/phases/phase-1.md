@@ -1,52 +1,31 @@
-# Phase 1 — Getting to Know TypeScript
+# Глава 1 — Знакомство с TypeScript
 
 | | |
 |--|--|
-| **Items** | 1–12 (книга, часть 1) |
+| **Правила** | 1–5 |
 | **Статус** | active |
-| **Ориентир** | ~2–3 недели при 1 ч/день |
 
-Связано: [plan.md](../plan.md) · [progress.md](../progress.md)
-
----
-
-## Exit criteria (выход из Phase 1)
-
-- [ ] Объясняешь **structural vs nominal** typing на своём примере
-- [ ] Осознанно выбираешь `unknown` вместо `any` там, где тип неизвестен
-- [ ] Понимаешь разницу **type assertion** vs **type guard**; не злоупотребляешь `as`
-- [ ] Настроил/понимаешь `tsconfig` проекта (strict, module resolution)
-- [ ] ≥ 8 item'ов Phase 1 → `done` в чеклисте ниже
-- [ ] Error bank: ключевые ловушки Phase 1 в `review` или `done`
-- [ ] Чекпоинт Phase 1 записан в `progress.md`
+Связано: [book-items.md](../book-items.md) · [plan.md](../plan.md)
 
 ---
 
-## Items checklist
+## Правила
 
-| Item | Тема (кратко) | Статус | Конспект | Задание | Lab |
-|------|---------------|--------|----------|---------|-----|
-| 1 | Structural vs nominal typing | in_progress | [01](../notes/phase-1/01-structural-vs-nominal.md) | [TS-01](../assignments/phase-1/01-structural-vs-nominal.md) | [ts-01](../vue-ts-learning-project/src/labs/ts-01-structural-typing/) |
-| 2 | Keyof and lookup types | in_progress | [02](../notes/phase-1/02-keyof-lookup-types.md) | [TS-02](../assignments/phase-1/02-keyof-lookup-types.md) | [ts-02](../vue-ts-learning-project/src/labs/ts-02-keyof-lookup/) |
-| 3 | `any` — понимать и избегать | pending | — | — | — |
-| 4 | Prefer type aliases for object types | pending | — | — | — |
-| 5 | `any` vs `unknown` | pending | — | — | — |
-| 6 | `never` | pending | — | — | — |
-| 7 | Type narrowing | pending | — | — | — |
-| 8 | Avoid type assertions | pending | — | — | — |
-| 9 | Prefer type annotations for objects | pending | — | — | — |
-| 10 | Loosen types for tests | pending | — | — | — |
-| 11 | Name things in generics | pending | — | — | — |
-| 12 | Prefer type inference | pending | — | — | — |
+| # | Тема | Lab | Статус |
+|---|------|-----|--------|
+| 1 | TypeScript и JavaScript | [ts-01](../vue-ts-learning-project/src/labs/ts-01/) | stub |
+| 2 | Настройки TypeScript | [ts-02](../vue-ts-learning-project/src/labs/ts-02/) | stub |
+| 3 | Независимость генерации кода | [ts-03](../vue-ts-learning-project/src/labs/ts-03/) | stub |
+| 4 | Структурная типизация | [ts-04](../vue-ts-learning-project/src/labs/ts-04/) | stub |
+| 5 | Ограничьте any | [ts-05](../vue-ts-learning-project/src/labs/ts-05/) | stub |
 
-Статусы: `pending` → `in_progress` → `done`.
+Статусы: `stub` → `in_progress` → `done`.
 
 ---
 
-## Недельный ориентир (гибко)
+## Exit criteria (глава 1)
 
-| Week | Фокус |
-|------|--------|
-| 1 | Items 1–4 + привычка lab/playground |
-| 2 | Items 5–8 |
-| 3 | Items 9–12 + checkpoint Phase 1 |
+- [ ] Объясняешь: TS ⊃ JS, типы стираются при компиляции
+- [ ] Знаешь ключевые опции `tsconfig` (`strict`, `noImplicitAny`)
+- [ ] Понимаешь structural typing на примере
+- [ ] Осознанно избегаешь `any`
