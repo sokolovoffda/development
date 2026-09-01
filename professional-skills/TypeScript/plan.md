@@ -23,6 +23,6 @@
 
 ## Текущий фокус
 
-**Правило 7** — Типы как множества значений · lab [`ts-07`](vue-ts-learning-project/src/labs/ts-07/)
+**Правило 8** — Type space vs value space · lab [`ts-08`](vue-ts-learning-project/src/labs/ts-08/)
 
 Скажи: **«разбираем правило N»** — наполним соответствующий lab.

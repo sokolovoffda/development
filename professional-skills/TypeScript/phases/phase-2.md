@@ -15,7 +15,7 @@
 |---|------|-----|--------|
 | 6 | Редактор и система типов | [ts-06](../vue-ts-learning-project/src/labs/ts-06/) | stub |
 | 7 | Типы как множества значений | [ts-07](../vue-ts-learning-project/src/labs/ts-07/) | stub |
-| 8 | Type space vs value space | — | pending |
+| 8 | Type space vs value space | [ts-08](../vue-ts-learning-project/src/labs/ts-08/) | stub |
 | 9 | Аннотации vs assertions | — | pending |
 | 10 | Object wrapper types | — | pending |
 | 11 | Excess property checking | — | pending |

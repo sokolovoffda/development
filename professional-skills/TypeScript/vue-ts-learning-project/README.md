@@ -1,14 +1,21 @@
 # vue-ts-learning-project
 
-Песочница для **62 правил** «Эффективный TypeScript». Трек: [../README.md](../README.md) · [../book-items.md](../book-items.md).
+Песочница: **книга** (labs) + **синтаксис** (syntax). Трек: [../README.md](../README.md) · [../syntax-plan.md](../syntax-plan.md).
 
-## Labs
+## Labs (книга, 62 правила)
 
 ```text
 src/labs/
-├── active.ts       ← какой lab в App
-├── ts-01/ … ts-05/ ← глава 1 (каркас)
-└── ts-06/ …        ← создаются по мере прохождения
+├── active.ts
+└── ts-01/ … ts-NN/
+```
+
+## Syntax (S01–S15)
+
+```text
+src/syntax/
+├── lesson.ts    ← текущее задание (ментор)
+└── workshop.ts  ← твой черновик
 ```
 
 ## Команды

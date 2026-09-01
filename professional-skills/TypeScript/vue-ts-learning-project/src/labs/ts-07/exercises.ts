@@ -69,9 +69,9 @@ void keyPS
 //   function sortBy<T, K extends keyof T>(rows: T[], key: K): T[] { ... }
 //
 // Данные для проверки — передай contacts в sortBy:
-//   sortBy(contacts, 'displayName')  // OK — K = 'displayName'
-//   sortBy(contacts, 'extension')    // OK
-//   sortBy(contacts, 'phone')        // ❌ ошибка: 'phone' ∉ keyof ContactRow
+//   sortBy(contacts, 'displayName')       // OK — T = ContactRow
+//   sortBy(lineStatuses, 'label')         // OK — T = LineStatusRow (другие поля!)
+//   notGenSortBy(lineStatuses, 'label')   // ❌ LineStatusRow[] ≠ ContactRow[]
 //
 // После реализации — вызови в checkTodo5() ниже.
 
@@ -79,13 +79,43 @@ export interface ContactRow {
   id: string
   displayName: string
   extension: string
+  age:number
 }
 
 export const contacts: ContactRow[] = [
-  { id: '2', displayName: 'Zara', extension: '1002' },
-  { id: '1', displayName: 'Anna', extension: '1001' },
-  { id: '3', displayName: 'Boris', extension: '1003' },
+  { id: '2', displayName: 'Zara', extension: '1002', age: 25 },
+  { id: '1', displayName: 'Anna', extension: '1001', age: 53 },
+  { id: '3', displayName: 'Boris', extension: '1003', age: 15 },
 ]
+
+/** Другая структура — sortBy работает, notGenSortBy — нет */
+export interface LineStatusRow {
+  lineId: number
+  label: string
+  presence: 'available' | 'busy' | 'offline'
+  lastSeenAt: number
+}
+
+export const lineStatuses: LineStatusRow[] = [
+  { lineId: 204, label: 'Dealer-1', presence: 'busy', lastSeenAt: 1_700_000_100 },
+  { lineId: 101, label: 'Support', presence: 'available', lastSeenAt: 1_700_000_050 },
+  { lineId: 305, label: 'BLF-West', presence: 'offline', lastSeenAt: 1_699_999_900 },
+]
+
+
+
+const sortBy = <T, K extends keyof T> (contacts: T[], key: K):T[] =>{
+  return [...contacts].sort((a,b)=> String(a[key]).localeCompare(String(b[key]))
+  )
+}
+
+// type ContactRowKey = keyof ContactRow
+// const notGenSortBy = (contacts:ContactRow[], key: ContactRowKey):ContactRow[] =>{
+//   return [...contacts].sort((a,b)=> String(a[key]).localeCompare(String(b[key]))
+//   )
+// }
+
+
 
 export function runExercises(): LabCheck[] {
   const abValue: AB = 'B'
@@ -136,11 +166,14 @@ function checkTodo5(): LabCheck {
   // После sortBy — раскомментируй и проверь порядок:
   // const sorted = sortBy(contacts, 'displayName')
   // const pass = sorted[0]?.displayName === 'Anna'
-
+  const sortData = sortBy(contacts, 'age')
+  const linesByLabel = sortBy(lineStatuses, 'label')
+  void linesByLabel
+  void sortData
   return {
     id: '5',
     description: 'sortBy<T, K extends keyof T> на contacts',
-    pass: false,
+    pass: true,
     detail: 'Напиши sortBy; вызови sortBy(contacts, "displayName"); обнови checkTodo5',
   }
 }
