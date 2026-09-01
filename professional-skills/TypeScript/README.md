@@ -57,4 +57,4 @@
 ## Статус
 
 - **Старт:** 2026-08-31
-- **Сейчас:** глава 1 · правила 1–5 · lab [`ts-01`](vue-ts-learning-project/src/labs/ts-01/)
+- **Сейчас:** глава 2 · правило 7 · lab [`ts-07`](vue-ts-learning-project/src/labs/ts-07/)

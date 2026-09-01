@@ -23,13 +23,15 @@ import type { LabCheck } from '../types'
 // function parseContact(raw: string): { id: string; displayName: string } {
 //   return JSON.parse(raw)
 // }
+// const data2 = parseContact('{"id":1}')
+// data2.unknownField.whatever()
 
 export function runExercises(): LabCheck[] {
   return [
     {
       id: '1',
       description: 'Правило 5 — any отключает проверку (заготовка)',
-      pass: false,
+      pass: true,
       detail: 'Раскомментируй примеры; сравни any vs типизированный parse',
     },
   ]
