@@ -23,10 +23,10 @@
 
 | # | Модуль | Что закрываем | Статус | Связь с книгой |
 |---|--------|---------------|--------|----------------|
-| S01 | Примитивы и аннотации | `string`, `number`, `boolean`, `void`, inference | in_progress | пр. 1, 12 |
-| S02 | Массивы и tuple | `T[]`, `Array<T>`, `[string, number]` | pending | пр. 7, 16 |
-| S03 | Объекты | `interface`, `type`, опциональные поля `?` | partial | пр. 4, 13 |
-| S04 | Union и intersection | `\|`, `&`, assignable | partial | пр. 7 |
+| S01 | Примитивы и аннотации | `string`, `number`, `boolean`, `void`, inference | done | пр. 1, 12 |
+| S02 | Массивы и tuple | `T[]`, `Array<T>`, `[string, number]` | done | пр. 7, 16 |
+| S03 | Объекты | `interface`, `type`, опциональные поля `?` | done | пр. 4, 13 |
+| S04 | Union и intersection | `\|`, `&`, assignable | in_progress | пр. 7 |
 | S05 | Литералы и `as const` | `'idle' \| 'busy'`, widening | pending | пр. 11, 21 |
 | S06 | `keyof` и lookup | `keyof T`, `T[K]` | partial | пр. 14 |
 | S07 | Generics: функции | `<T>`, `K extends keyof T` | partial | пр. 7, 14 |
@@ -45,7 +45,7 @@
 
 ## Текущий модуль
 
-**S01 — Примитивы и аннотации** (старт синтаксис-трека)
+**S04 — Union и intersection**
 
 Файл: `src/syntax/lesson.ts` · черновик: `src/syntax/workshop.ts`
 
@@ -65,3 +65,6 @@
 | Дата | Модуль | Заметка |
 |------|--------|---------|
 | 2026-09-01 | — | План создан; partial из labs 4–8 учтён |
+| 2026-09-01 | S01 | Примитивы, аннотации, inference, void |
+| 2026-09-01 | S02 | Массивы, tuple, first<T> |
+| 2026-09-01 | S03 | interface, type, optional, union в полях |

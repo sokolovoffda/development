@@ -1,36 +1,22 @@
-/**
- * S01 — Примитивы и аннотации
- * План: syntax-plan.md · Статус: in_progress
- *
- * Цель: явные аннотации vs inference, базовые типы.
- */
-
-// --- Задание 1: аннотации ---
-// Объяви переменные с явным типом:
-// const title: string = ...
-// const count: number = ...
-// const active: boolean = ...
-
-// --- Задание 2: inference ---
-// Без аннотации — наведи hover, какой тип вывел TS?
-// const inferredId = 'ext-42'
-// const inferredPort = 5060
-
-// --- Задание 3: функция ---
-// Напиши greet(name: string): string → `Hello, ${name}`
-
-// --- Задание 4: void ---
-// logMessage(msg: string): void — только console.log, без return
-
-// --- Проверка (раскомментируй после заданий) ---
-// export function runS01Checks(): boolean {
-//   const title: string = 'Dealing Console'
-//   const count: number = 3
-//   const active: boolean = true
-//   const inferredId = 'ext-42'
-//   void title
-//   void count
-//   void active
-//   void inferredId
-//   return typeof inferredId === 'string'
-// }
+/**
+ * S04 — Union и intersection
+ * План: syntax-plan.md · Статус: in_progress
+ * Пиши в runLesson() — console.log на странице и в DevTools.
+ */
+
+export function runLesson(): void {
+  // вызывай типы и функции отсюда
+}
+
+// --- Задание 1: type StringOrNumber = string | number ---
+// --- Задание 2: printId(id: StringOrNumber): void — console.log ---
+// --- Задание 3: type Person = { name: string }, type Employee = Person & { id: string } ---
+// --- Задание 4: создай employee: Employee и выведи ---
+// --- Задание 5: typeof-сужение — describe(value: StringOrNumber): string ---
+//   если number → `port: 5060`, если string → `ext: 1001`
+// --- Проверка (раскомментируй после заданий) ---
+// export function runS04Checks(): boolean {
+//   const employee: Employee = { name: 'Alex', id: 'e1' }
+//   return employee.name === 'Alex' && describe(5060).startsWith('port:')
+// }
+
