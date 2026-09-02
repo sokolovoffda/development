@@ -44,6 +44,14 @@
 
 ## Session log
 
+### 2026-09-02 — Checkpoint test Theme 1+2 (часть C)
+
+- Часть C (перевод 8 предл.): **6/8**.
+- Сильное: *usually* перед глаголом; *want to improve/read* ✓; Continuous в #3, #5, #6.
+- Слабое: *bag* → **bug**; *amn't* → **I'm not**; *code-review* → **code review** / *conducting a code review*; *a documentations* → **technical documentation** (неисч.).
+- **Итог теста:** A 5/5 + B 6/7 + C 6/8 ≈ **17/20 (85%)** — Theme 1+2 закрыты, можно Theme 3.
+- **Next:** Theme 3 prepositions.
+
 ### 2026-09-01 — Checkpoint test Theme 1+2 (части A+B)
 
 - Часть A (исправь ошибку): **5/5** — Simple/Continuous/отрицания ок; #1 опечатка `l` → `I`.
@@ -152,6 +160,9 @@
 | on the production | to production | open | 1 |
 | collegue / remotelly / usuallu | colleague / remotely / usually | open | 1 |
 | a developer / a bug (missing a) | Are you **a** developer? · fixing **a** bug | open | 1 |
+| bag (typo) | **bug** | open | 1 |
+| amn't | **I'm not** / I am not | review | 1 |
+| a documentations | technical **documentation** / technical **documents** | open | 1 |
 
 ---
 
