@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-03 — Theme 3 Prepositions start
+
+- Конспект + P1-03 созданы; статус `in_progress`.
+- Фокус: *at/in/on* (место+время), *for/to/with/about*; ловушки *On work*, *to production*.
+- **Next:** P1-03 (вставь предлог + короткий текст).
+
 ### 2026-09-03 — Vocabulary review (20 words EN→RU)
 
 - Batch 1–20: **18/20** ок.
