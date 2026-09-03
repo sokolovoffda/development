@@ -32,3 +32,13 @@
 | 18 | **certainly** | **сё́т**-nli | безусловно, обязательно | English is certainly important for me. | 2026-08-31 | done |
 | 19 | **especially** | is-**пэ́**-shə-li | особенно | I need English, especially for documentation. | 2026-08-31 | done |
 | 20 | **occasionally** | ek-**кэ́й**-zhə-nə-li | время от времени, изредка | I occasionally read docs in English. | 2026-08-31 | done |
+| 21 | **currently** | **ка́**-рэнт-ли | сейчас, на данный момент (≠ *actually*) | I'm currently fixing a bug. | 2026-09-03 | new |
+| 22 | **feature** | **фи́**-чэ | фича, функция продукта | We're working on a new feature. | 2026-09-03 | new |
+| 23 | **bug** | баг | ошибка в коде | I'm fixing a bug now. | 2026-09-03 | new |
+| 24 | **deploy** | ди-**пло́й** | деплоить, выкатывать | She isn't deploying to production. | 2026-09-03 | new |
+| 25 | **review** | ри-**вью́** | проверка, ревью | My colleague is doing a code review. | 2026-09-03 | new |
+| 26 | **usually** | **ю́**-жу-э-ли | обычно | I usually develop web apps. | 2026-09-03 | new |
+| 27 | **busy** | **би́**-зи | занятый | Is he busy now? | 2026-09-03 | new |
+| 28 | **requirement** | ри-**ква́йэ**-мент | требование | The requirements are too vague. | 2026-09-03 | new |
+| 29 | **release** | ри-**ли́з** | релиз; выпускать | We released the app yesterday. | 2026-09-03 | new |
+| 30 | **issue** | **и́**-шу | проблема; задача (ticket) | I have an issue with this API. | 2026-09-03 | new |
