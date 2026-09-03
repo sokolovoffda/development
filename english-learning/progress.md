@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-03 — Vocabulary review (20 words EN→RU)
+
+- Batch 1–20: **18/20** ок.
+- Ловушка: *actually* ≠ «на данный момент» → **на самом деле**; *grasp* в нашем списке = **улавливать суть**, не только «захватывать».
+- Status: *actually*, *grasp* → `review`; остальные → `done` (включая *remotely*, *improve*).
+- **Next:** Theme 3 prepositions.
+
 ### 2026-09-02 — Checkpoint test Theme 1+2 (часть C)
 
 - Часть C (перевод 8 предл.): **6/8**.

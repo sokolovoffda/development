@@ -15,20 +15,20 @@
 | 1 | **trader** | **трэ́й**-дер | трейдер | I develop apps for traders. | 2026-08-31 | done |
 | 2 | **colleague** | **ко́**-лиг | коллега | My colleague Sergey is a team lead. | 2026-08-31 | done |
 | 3 | **experience** | ик-**спи́**-ри-енс | опыт | He has ten years of experience. | 2026-08-31 | done |
-| 4 | **remotely** | ри-**мо́ут**-ли | удалённо | I work remotely. | 2026-08-31 | review |
+| 4 | **remotely** | ри-**мо́ут**-ли | удалённо | I work remotely. | 2026-08-31 | done |
 | 5 | **professional** | про-**фэ́**-шн-л | профессиональный | They are really professional. | 2026-08-31 | done |
 | 6 | **integrate** | **и́н**-ти-грейт | интегрировать | He integrates AI into our work. | 2026-08-31 | done |
 | 7 | **skill** | скил | навык | I need to improve my skills. | 2026-08-31 | done |
-| 8 | **improve** | им-**пру́в** | улучшать | I want to improve my English. | 2026-08-31 | review |
+| 8 | **improve** | им-**пру́в** | улучшать | I want to improve my English. | 2026-08-31 | done |
 | 9 | **documentation** | док-ю-мен-**те́й**-шн | документация | I read technical documentation. | 2026-08-31 | done |
 | 10 | **important** | им-**по́**-тент | важный | English is important for me. | 2026-08-31 | done |
-| 11 | **refactor** | **рифа́ктэ** | переписывать/оптимизировать код (≠ «проверять») | We need to refactor this module. | 2026-08-31 | new |
-| 12 | **crucial** | **кру́шэл** | решающий, критически важный | Tests are crucial for this feature. | 2026-08-31 | new |
-| 13 | **despite** | дис**па́йт** | несмотря на | Despite the bugs, we released on time. | 2026-08-31 | new |
-| 14 | **grasp** | **гра́сп** | схватывать, улавливать (суть/мысль) | I can’t grasp this concept yet. | 2026-08-31 | new |
-| 15 | **vague** | вэйг | смутный, неясный | The requirements are too vague. | 2026-08-31 | new |
-| 16 | **actually** | **э́к**-чу-али | на самом деле (≠ actual — «актуальный») | Actually, I work as a frontend developer. | 2026-08-31 | new |
-| 17 | **probably** | **про́**-bab-li | вероятно (≠ practical — «практичный») | I will probably need English at work. | 2026-08-31 | new |
-| 18 | **certainly** | **сё́т**-nli | безусловно, обязательно | English is certainly important for me. | 2026-08-31 | new |
-| 19 | **especially** | is-**пэ́**-shə-li | особенно | I need English, especially for documentation. | 2026-08-31 | new |
-| 20 | **occasionally** | ek-**кэ́й**-zhə-nə-li | время от времени, изредка | I occasionally read docs in English. | 2026-08-31 | new |
+| 11 | **refactor** | **рифа́ктэ** | переписывать/оптимизировать код (≠ «проверять») | We need to refactor this module. | 2026-08-31 | done |
+| 12 | **crucial** | **кру́шэл** | решающий, критически важный | Tests are crucial for this feature. | 2026-08-31 | done |
+| 13 | **despite** | дис**па́йт** | несмотря на | Despite the bugs, we released on time. | 2026-08-31 | done |
+| 14 | **grasp** | **гра́сп** | схватывать, улавливать (суть/мысль) | I can’t grasp this concept yet. | 2026-08-31 | review |
+| 15 | **vague** | вэйг | смутный, неясный | The requirements are too vague. | 2026-08-31 | done |
+| 16 | **actually** | **э́к**-чу-али | на самом деле (≠ «на данный момент»; ≠ actual — «актуальный») | Actually, I work as a frontend developer. | 2026-08-31 | review |
+| 17 | **probably** | **про́**-bab-li | вероятно (≠ practical — «практичный») | I will probably need English at work. | 2026-08-31 | done |
+| 18 | **certainly** | **сё́т**-nli | безусловно, обязательно | English is certainly important for me. | 2026-08-31 | done |
+| 19 | **especially** | is-**пэ́**-shə-li | особенно | I need English, especially for documentation. | 2026-08-31 | done |
+| 20 | **occasionally** | ek-**кэ́й**-zhə-nə-li | время от времени, изредка | I occasionally read docs in English. | 2026-08-31 | done |
