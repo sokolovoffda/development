@@ -26,8 +26,8 @@
 | S01 | Примитивы и аннотации | `string`, `number`, `boolean`, `void`, inference | done | пр. 1, 12 |
 | S02 | Массивы и tuple | `T[]`, `Array<T>`, `[string, number]` | done | пр. 7, 16 |
 | S03 | Объекты | `interface`, `type`, опциональные поля `?` | done | пр. 4, 13 |
-| S04 | Union и intersection | `\|`, `&`, assignable | in_progress | пр. 7 |
-| S05 | Литералы и `as const` | `'idle' \| 'busy'`, widening | pending | пр. 11, 21 |
+| S04 | Union и intersection | `\|`, `&`, assignable | done | пр. 7 |
+| S05 | Литералы и `as const` | `'idle' \| 'busy'`, widening | in_progress | пр. 11, 21 |
 | S06 | `keyof` и lookup | `keyof T`, `T[K]` | partial | пр. 14 |
 | S07 | Generics: функции | `<T>`, `K extends keyof T` | partial | пр. 7, 14 |
 | S08 | Generics: типы | `Pick`, `Partial`, `Record` (вводно) | pending | пр. 14, 18 |
@@ -45,7 +45,7 @@
 
 ## Текущий модуль
 
-**S04 — Union и intersection**
+**S05 — Литералы и `as const`**
 
 Файл: `src/syntax/lesson.ts` · черновик: `src/syntax/workshop.ts`
 
@@ -68,3 +68,4 @@
 | 2026-09-01 | S01 | Примитивы, аннотации, inference, void |
 | 2026-09-01 | S02 | Массивы, tuple, first<T> |
 | 2026-09-01 | S03 | interface, type, optional, union в полях |
+| 2026-09-03 | S04 | union, intersection, typeof-сужение |
