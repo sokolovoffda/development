@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-03 — Prepositions extended test
+
+- A: 13/15, B: 8/10, C: 7/8 → **28/33 (85%)**
+- Предлоги: все ключевые (*at/in/on/for/to/with/about*) — ок.
+- Повтор: *go home* (без *to*), spelling *usually / colleague / drive*.
+- **Next:** Theme 4 Articles.
+
 ### 2026-09-03 — P1-03 Prepositions
 
 - P1-03 сдан; **7.5/10**.
