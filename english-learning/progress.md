@@ -44,6 +44,14 @@
 
 ## Session log
 
+### 2026-09-03 — P1-03 Prepositions
+
+- P1-03 сдан; **7.5/10**.
+- Часть A: **8/8** — *at / on / in / for / to / with / about* ок.
+- Сильное: *on Monday*, *in the office*, *in the morning*, *to production*, *with my colleague*.
+- Слабое: *go home* (без *to*), артикли с множественным (*a bugs*), spelling *colleague / engineers*, *we sit* (не *sits*).
+- **Next:** Theme 4 articles.
+
 ### 2026-09-03 — Theme 3 Prepositions start
 
 - Конспект + P1-03 созданы; статус `in_progress`.
@@ -176,6 +184,11 @@
 | bag (typo) | **bug** | open | 1 |
 | amn't | **I'm not** / I am not | review | 1 |
 | a documentations | technical **documentation** / technical **documents** | open | 1 |
+| go to home | **go home** | open | 1 |
+| go to office | **go to the office** | open | 1 |
+| a bugs | **a bug** / **bugs** | open | 1 |
+| collegue / engeners | **colleague** / **engineers** | open | 1 |
+| we sits | **we sit** | open | 1 |
 
 ---
 

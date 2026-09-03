@@ -32,7 +32,7 @@
 |---|------|--------|---------------|
 | 1 | Present Simple: *I work / I develop / He works* — [конспект](../notes/phase-1/01-present-simple.md) · [P1-01](../assignments/phase-1/01-present-simple.md) | done | 2026-08-31 |
 | 2 | Present Continuous vs Simple — [02](../notes/phase-1/02-present-continuous-vs-simple.md) · [P1-02](../assignments/phase-1/02-continuous-vs-simple.md) · [P1-02b](../assignments/phase-1/02b-drill-negatives.md) | done | 2026-08-31 |
-| 3 | Prepositions: *at work, in a bank, on Monday* — [конспект](../notes/phase-1/03-prepositions.md) · [P1-03](../assignments/phase-1/03-prepositions.md) | in progress | |
+| 3 | Prepositions: *at work, in a bank, on Monday* — [конспект](../notes/phase-1/03-prepositions.md) · [P1-03](../assignments/phase-1/03-prepositions.md) | done | 2026-09-03 |
 | 4 | Articles: *a / an / the* (короткий свод) | pending | |
 | 5 | Chunks: *I want to + V*, *I need to + V*, *I don’t have…* | pending | |
 | 6 | Past Simple intro: *I worked / I developed* | pending | |

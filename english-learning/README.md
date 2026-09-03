@@ -71,4 +71,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 3 Prepositions — [P1-03](assignments/phase-1/03-prepositions.md) `in_progress`
+- **Сейчас:** Theme 3 Prepositions — `done` · дальше Theme 4 Articles
