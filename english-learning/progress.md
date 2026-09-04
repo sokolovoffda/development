@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-04 — P1-04 Articles
+
+- P1-04 сдан; **8.5/10**. Часть A: **15/15**.
+- Сильное: *a/an* профессия, *the* после первого упоминания, ∅ с *software / documentation / banks / TypeScript / English*.
+- Слабое (не артикли): *He work* → *He works*; *a lot of time* → *works a lot*.
+- **Next:** Theme 5 chunks (*I want to / I need to / I don't have*).
+
 ### 2026-09-03 — Theme 4 Articles start
 
 - Конспект + P1-04 созданы; статус `in_progress`.
@@ -202,6 +209,8 @@
 | a bugs | **a bug** / **bugs** | open | 1 |
 | collegue / engeners | **colleague** / **engineers** | open | 1 |
 | we sits | **we sit** | open | 1 |
+| He work (no -s) | **He works** | open | 1 |
+| a lot of time (work) | **works a lot** / **for a long time** | open | 1 |
 
 ---
 
@@ -210,3 +219,4 @@
 - 2026-08-29: диагностика + отдельные phase-планы + явный протокол трекинга.
 - 2026-08-30: P1-01 — Present Simple без *I working / On work / My stack it is*; связный текст о команде.
 - 2026-08-31: монолог Q&A — *Yes, I do / No, I don’t*, *he develops*, финальный текст о работе и стеке.
+- 2026-09-04: P1-04 — артикли 15/15; цепочка *a task → the task*, *a bug → the bug*.

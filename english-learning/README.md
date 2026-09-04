@@ -71,4 +71,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 4 Articles — [P1-04](assignments/phase-1/04-articles.md) `in_progress`
+- **Сейчас:** Theme 4 Articles — `done` · дальше Theme 5 (*want to / need to*)
