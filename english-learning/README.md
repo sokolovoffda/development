@@ -71,4 +71,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 4 Articles — `done` · дальше Theme 5 (*want to / need to*)
+- **Сейчас:** Checkpoint Themes 1–4 — [P1-CP1](assignments/phase-1/04b-checkpoint-themes-1-4.md) `in_progress` · затем Theme 5

@@ -42,3 +42,13 @@
 | 28 | **requirement** | ри-**ква́йэ**-мент | требование | The requirements are too vague. | 2026-09-03 | new |
 | 29 | **release** | ри-**ли́з** | релиз; выпускать | We released the app yesterday. | 2026-09-03 | new |
 | 30 | **issue** | **и́**-шу | проблема; задача (ticket) | I have an issue with this API. | 2026-09-03 | new |
+| 31 | **stand-up** | **стэ́нд**-ап | короткая планёрка | We have a stand-up at 10. | 2026-09-07 | new |
+| 32 | **backlog** | **бэк**-лог | бэклог, список задач | Sergey talks about the backlog. | 2026-09-07 | new |
+| 33 | **deadline** | **дэ́д**-лайн | дедлайн | The deadline is on Friday. | 2026-09-07 | new |
+| 34 | **clarify** | **клэ́**-ри-фай | прояснить | We need to clarify the requirements. | 2026-09-07 | new |
+| 35 | **sprint** | спринт | спринт (итерация) | The backlog is big this sprint. | 2026-09-07 | new |
+| 36 | **prioritize** | прай-**о́**-ри-тайз | расставлять приоритеты | We prioritize critical bugs. | 2026-09-07 | new |
+| 37 | **postpone** | пост-**по́ун** | отложить | We postpone the release. | 2026-09-07 | new |
+| 38 | **reliable** | ри-**ла́й**-эбл | надёжный | We need a reliable solution. | 2026-09-07 | new |
+| 39 | **estimate** | **э́**-сти-мэйт | оценивать (срок/объём) | Can you estimate this task? | 2026-09-07 | new |
+| 40 | **ticket** | **ти́**-кит | тикет, задача | I have a ticket about the login bug. | 2026-09-07 | new |
