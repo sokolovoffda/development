@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-07 — Checkpoint P1-CP1 (Themes 1–4) issued
+
+- Большой тест: reading + RU→EN + EN→RU + combined writing + error fix.
+- Vocabulary +10: stand-up, backlog, deadline, clarify, sprint, prioritize, postpone, reliable, estimate, ticket.
+- **Next:** сдача по частям или целиком → «проверь P1-CP1».
+
 ### 2026-09-04 — P1-04 Articles
 
 - P1-04 сдан; **8.5/10**. Часть A: **15/15**.
