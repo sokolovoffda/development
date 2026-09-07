@@ -52,3 +52,4 @@
 | 38 | **reliable** | ри-**ла́й**-эбл | надёжный | We need a reliable solution. | 2026-09-07 | new |
 | 39 | **estimate** | **э́**-сти-мэйт | оценивать (срок/объём) | Can you estimate this task? | 2026-09-07 | new |
 | 40 | **ticket** | **ти́**-кит | тикет, задача | I have a ticket about the login bug. | 2026-09-07 | new |
+| 41 | **solution** | со-**лю́**-шн | решение | We need a reliable solution. | 2026-09-07 | new |
