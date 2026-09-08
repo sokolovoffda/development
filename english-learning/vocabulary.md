@@ -53,3 +53,19 @@
 | 39 | **estimate** | **э́**-сти-мэйт | оценивать (срок/объём) | Can you estimate this task? | 2026-09-07 | new |
 | 40 | **ticket** | **ти́**-кит | тикет, задача | I have a ticket about the login bug. | 2026-09-07 | new |
 | 41 | **solution** | со-**лю́**-шн | решение | We need a reliable solution. | 2026-09-07 | new |
+| 42 | **advice** | эд-**ва́йс** | совет (неисч.; не *advices*) | Can you give me advice? | 2026-09-08 | new |
+| 43 | **seek** | сик | искать, стремиться | We seek a better solution. | 2026-09-08 | new |
+| 44 | **plunge** | пландж | нырять; погружаться; резко падать | Don’t plunge into the code without a plan. | 2026-09-08 | new |
+| 45 | **absorb** | эб-**зо́рб** | поглощать; впитывать (информацию) | I need time to absorb this documentation. | 2026-09-08 | new |
+| 46 | **wisdom** | **ви́з**-дом | мудрость | Experience brings wisdom. | 2026-09-08 | new |
+| 47 | **instant** | **и́н**-стэнт | мгновенный; мгновение | I need an instant answer. | 2026-09-08 | new |
+| 48 | **wide** | вайд | широкий | We need a wide range of tests. | 2026-09-08 | new |
+| 49 | **struggle** | **стра́**-гл | бороться; трудность | I struggle with listening. | 2026-09-08 | new |
+| 50 | **shore** | шор | берег | They walk along the shore. | 2026-09-08 | new |
+| 51 | **might** | майт | возможно / мочь (вероятность) | It might be a bug. | 2026-09-08 | new |
+| 52 | **caught** | кот | поймал (past от *catch*) | I caught the error in time. | 2026-09-08 | new |
+| 53 | **breath** | бреθ | дыхание; вдох | Take a deep breath. | 2026-09-08 | new |
+| 54 | **stomp** | стомп | топать | Don’t stomp on the floor. | 2026-09-08 | new |
+| 55 | **anger** | **э́нг**-ге | гнев, злость | He spoke with anger. | 2026-09-08 | new |
+| 56 | **approach** | э-**про́уч** | подход; приближаться (*approached* — past) | We approached the deadline. | 2026-09-08 | new |
+| 57 | **notice** | **но́у**-тис | замечать; уведомление | Did you notice the bug? | 2026-09-08 | new |
