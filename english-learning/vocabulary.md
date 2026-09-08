@@ -64,7 +64,7 @@
 | 50 | **shore** | шор | берег | They walk along the shore. | 2026-09-08 | new |
 | 51 | **might** | майт | возможно / мочь (вероятность) | It might be a bug. | 2026-09-08 | new |
 | 52 | **caught** | кот | поймал (past от *catch*) | I caught the error in time. | 2026-09-08 | new |
-| 53 | **breath** | бреθ | дыхание; вдох | Take a deep breath. | 2026-09-08 | new |
+| 53 | **breath** | брэс | дыхание; вдох | Take a deep breath. | 2026-09-08 | new |
 | 54 | **stomp** | стомп | топать | Don’t stomp on the floor. | 2026-09-08 | new |
 | 55 | **anger** | **э́нг**-ге | гнев, злость | He spoke with anger. | 2026-09-08 | new |
 | 56 | **approach** | э-**про́уч** | подход; приближаться (*approached* — past) | We approached the deadline. | 2026-09-08 | new |
