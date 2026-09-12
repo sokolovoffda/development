@@ -146,8 +146,30 @@ In the evening I go home. I want to improve my English, **especially** for techn
 
 <!-- пиши ниже; можно по частям A / B / C / D / E -->
 
+### D (2026-09-12)
 
+I usually work remotely. But this week I am working in the office. In my office very comfortable. I usually sit in my office. I develop software for traiders. At work I read technical documentation and write code. The code is very difficult. My stack is Vue 3, TypeScript, Pinia. English is important for my work. Today we are talking about a bug on the login page. This bug is very important. We have a deadline by the end of the week. I deploy to production on Friday.
 
 ## Mentor feedback
 
-*(заполнит ментор после проверки)*
+### D — Combined writing · **7.5/10**
+
+**Чеклист:**
+- Present Simple ≥2: ✅ (*usually work / sit / develop / read / write / deploy*)
+- Present Continuous ≥2: ✅ (*am working / are talking*)
+- Предлоги: ✅ *in the office, for traders, at work, about a bug, on the login page, on Friday, to production*
+- Артикли: ✅ *a bug → This/The bug*, ∅ *software / documentation / code / English*
+- ≥2 слова из списка checkpoint: ⚠️ только **deadline** (добавь ещё *feature / issue / sprint / clarify…*)
+
+**Правки:**
+1. *In my office very comfortable* → **My office is very comfortable** / **It is very comfortable in my office**
+2. *traiders* → **traders**
+3. *This bug is very important* → лучше **crucial** (из списка слов)
+4. *deadline by the end* → **The deadline is at the end of the week** / **We have a deadline at the end of the week**
+
+**Corrected version:**
+```text
+I usually work remotely. But this week I am working in the office. My office is very comfortable. I usually sit in my office. I develop software for traders. At work I read technical documentation and write code. The code is very difficult. My stack is Vue 3, TypeScript, and Pinia. English is important for my work. Today we are talking about a bug on the login page. This bug is crucial. The deadline is at the end of the week. I deploy to production on Friday.
+```
+
+*(A–C разобраны в чате 2026-09-09…12; E — следующий)*

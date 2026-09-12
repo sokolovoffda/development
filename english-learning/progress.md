@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-12 — P1-CP1 part D (combined writing)
+
+- D сдан; **7.5/10**. Simple + Continuous + предлоги + артикли — ок.
+- Слабое: *In my office very comfortable* (нужен *is*); *traiders*; из списка слов только *deadline*.
+- **Next:** часть E (error fix).
+
 ### 2026-09-07 — Checkpoint P1-CP1 (Themes 1–4) issued
 
 - Большой тест: reading + RU→EN + EN→RU + combined writing + error fix.
