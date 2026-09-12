@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-12 — P1-CP1 part E + checkpoint close
+
+- E: **5/8**. Сильное: Continuous, *at work*, *Are you*, *go home*.
+- Слабое: *isn't works* → *doesn't work* / *isn't working*; *want to*; *sitting/talking*.
+- **Итог P1-CP1 ~70%** — Themes 1–4 закрыты; дальше Theme 5 (*want to / need to*).
+
 ### 2026-09-12 — P1-CP1 part D (combined writing)
 
 - D сдан; **7.5/10**. Simple + Continuous + предлоги + артикли — ок.

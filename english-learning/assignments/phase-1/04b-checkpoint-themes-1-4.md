@@ -4,7 +4,7 @@
 |--|--|
 | Phase | 1 |
 | Themes | 1 Present Simple · 2 Continuous vs Simple · 3 Prepositions · 4 Articles |
-| Status | in_progress |
+| Status | done |
 
 Покрытие: грамматика 1–4 + чтение + перевод RU→EN + EN→RU + комбинированное письмо.  
 В тексте есть **новые слова** (отмечены **жирным**) — список в конце файла и в [vocabulary.md](../../vocabulary.md) #31–40.
@@ -172,4 +172,35 @@ I usually work remotely. But this week I am working in the office. In my office 
 I usually work remotely. But this week I am working in the office. My office is very comfortable. I usually sit in my office. I develop software for traders. At work I read technical documentation and write code. The code is very difficult. My stack is Vue 3, TypeScript, and Pinia. English is important for my work. Today we are talking about a bug on the login page. This bug is crucial. The deadline is at the end of the week. I deploy to production on Friday.
 ```
 
-*(A–C разобраны в чате 2026-09-09…12; E — следующий)*
+*(A–C разобраны в чате 2026-09-09…12)*
+
+### E (2026-09-12)
+
+I am working on a bug now. At work i develop software for banks. She isn't works remotely. Are you a developer? I go home in the evening. He works a lot of time. I want read documentation. We are siting in the car and tolking about bugs.
+
+### E — Error fix · **5/8**
+
+| # | Твой | Верно |
+|---|------|-------|
+| 1 | I am working on a bug now | ✅ |
+| 2 | At work I develop software for banks | ✅ (*I* с большой; *software/banks* без *a*) |
+| 3 | She isn't works remotely | ✗ → **She doesn't work remotely** / **She isn't working remotely** |
+| 4 | Are you a developer? | ✅ |
+| 5 | I go home in the evening | ✅ |
+| 6 | He works a lot of time | ~ → **He works a lot** |
+| 7 | I want read documentation | ✗ → **I want to read documentation** |
+| 8 | We are siting… tolking… | ~ смысл ок → **sitting** · **talking** |
+
+### Итог P1-CP1
+
+| Часть | Оценка |
+|-------|--------|
+| A Reading | ~11.5/14 |
+| B RU→EN | 9/15 |
+| C EN→RU | 8.5/10 |
+| D Combined | 7.5/10 |
+| E Error fix | 5/8 |
+| **Общее** | **~70%** — Themes 1–4 закрыты с оговорками |
+
+**Фокус на Theme 5:** *want to / need to*, и повтор: *doesn't work* vs *isn't working*, spelling *-ing*.
+
