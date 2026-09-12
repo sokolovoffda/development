@@ -71,4 +71,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Checkpoint Themes 1–4 — `done` (~70%) · дальше Theme 5 (*want to / need to*)
+- **Сейчас:** Theme 5 — [P1-05](assignments/phase-1/05-want-need-have.md) `in_progress`

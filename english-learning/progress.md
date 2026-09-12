@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-12 — Theme 5 start (want to / need to / don’t have)
+
+- Конспект + P1-05 созданы; статус `in_progress`.
+- Фокус: *want to + V*, *need to + V* vs *need + noun*, *don’t have*.
+- **Next:** P1-05 (A gaps + B translate + C text).
+
 ### 2026-09-12 — P1-CP1 part E + checkpoint close
 
 - E: **5/8**. Сильное: Continuous, *at work*, *Are you*, *go home*.
