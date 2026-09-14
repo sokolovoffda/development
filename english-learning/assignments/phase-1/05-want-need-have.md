@@ -21,6 +21,16 @@
 7. He needs ___ review this ticket.  
 8. Do you want ___ deploy today?
 
+
+### A2 — *have / has* (утверждение / отрицание / вопрос)
+
+9. I ___ a ticket for this bug. *(have/has)*  
+10. She ___ access to the API. *(have/has)*  
+11. I ___ much time today. *(don’t have / doesn’t have)*  
+12. He ___ a clear deadline. *(don’t have / doesn’t have)*  
+13. ___ you ___ a stand-up on Monday? *(Do/Does + have)*  
+14. ___ she ___ experience with Vue? *(Do/Does + have)*
+
 ### B — Переведи RU → EN
 
 1. Я хочу улучшить свой английский.  
@@ -31,6 +41,8 @@
 6. Я не хочу деплоить на прод сейчас.  
 7. Ей нужен доступ к API.  
 8. Тебе нужно приоритизировать эту задачу?
+9. У него есть доступ к API?
+10. У меня нет чёткой оценки.
 
 ### C — Мини-текст (6–8 предложений)
 

@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-14 — Theme 5: *have* scope fixed + P1-05 issued in chat
+
+- Зафиксировано: отдельной темы *have* не будет; *have/has / don’t have / Do you have?* внутри Theme 5.
+- FAQ + note обновлены (*don’t have* ≠ *haven’t a…*; после do/does всегда *have*).
+- P1-05 расширен блоком A2 на *have/has*.
+- **Next:** сдача P1-05 в чате.
+
 ### 2026-09-12 — Theme 5 start (want to / need to / don’t have)
 
 - Конспект + P1-05 созданы; статус `in_progress`.

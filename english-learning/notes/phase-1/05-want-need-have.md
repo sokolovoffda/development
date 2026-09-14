@@ -24,6 +24,24 @@
 | нужен **предмет/ресурс** | **need + noun** |
 | у меня нет X | **don’t / doesn’t have + noun** |
 
+
+## 0.1. *have / has* в этой теме (не отдельный Theme)
+
+**Отдельной темы только про *have* в Phase 1 не будет.** Здесь же:
+
+| Форма | Смысл |
+|-------|--------|
+| I **have** / He **has** | есть / имею |
+| I **don’t have** / He **doesn’t have** | нет |
+| **Do** you **have**…? / **Does** he **have**…? | есть ли…? |
+
+- С *do/does/don’t/doesn’t* всегда **have** (не *has*): *Does he have access?*
+- A2-стандарт отрицания: **don’t / doesn’t have** (не *I haven’t a…*).
+- Позже отдельно: *have to* (= должен); Phase 3: *I have worked…* (Perfect — другой смысл).
+
+После P1-05 можно короткий drill только на *have/has*.
+
+
 ---
 
 ## 1. *want to + V* — хочу сделать
