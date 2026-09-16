@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-16 — Content mix rule: everyday + conversational
+
+- В правила трека: не крутить практику только вокруг работы/IT.
+- Ориентир: ~40–50% повседневное/разговорное, ~30–40% работа, остальное микс.
+- Обновлены: README, profile, plan, assignments README, vocabulary intro; P1-05 C — тема на выбор (жизнь или работа).
+- **Next:** P1-05 часть C (можно про обычный день).
+
 ### 2026-09-14 — Theme 5: *have* scope fixed + P1-05 issued in chat
 
 - Зафиксировано: отдельной темы *have* не будет; *have/has / don’t have / Do you have?* внутри Theme 5.
