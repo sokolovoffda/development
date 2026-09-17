@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-17 — P1-05 complete (C translation)
+
+- C: **6.5/10**. *want to / need to / don’t have* — ок; артикли с meals, *I am tired*, *the weather*, *so* vs *because*.
+- Theme 5 → `done`. A 6/8 · A2 4/6 · B 6.5/10 · C 6.5/10.
+- **Next:** Theme 6 Past Simple intro (*I worked / I developed*).
+
 ### 2026-09-16 — Content mix rule: everyday + conversational
 
 - В правила трека: не крутить практику только вокруг работы/IT.
@@ -249,6 +255,13 @@
 | we sits | **we sit** | open | 1 |
 | He work (no -s) | **He works** | open | 1 |
 | a lot of time (work) | **works a lot** / **for a long time** | open | 1 |
+
+| have a breakfast / a dinner | **have breakfast** / **cook dinner** | open | 1 |
+| useful a habit | **a useful habit** | open | 1 |
+| one a thing | **one thing** / **an errand** | open | 1 |
+| Today I tired | Today I **am** tired | open | 1 |
+| Weather is bad | **The** weather is bad | open | 1 |
+| hungry because I need to eat | hungry, **so** I need to eat | open | 1 |
 
 ---
 

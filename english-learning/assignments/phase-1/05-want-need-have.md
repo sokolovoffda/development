@@ -4,7 +4,7 @@
 |--|--|
 | Phase | 1 |
 | Theme | 5 — Chunks |
-| Status | in_progress |
+| Status | done |
 
 Перед заданием: [notes/phase-1/05-want-need-have.md](../../notes/phase-1/05-want-need-have.md).
 
@@ -60,8 +60,31 @@
 
 <!-- пиши ниже -->
 
+### C (2026-09-17)
 
+On weekdays I usually get up early. I have a breakfast in my apartment. I want to build useful a habit - read every day. I need to do one a thing after work. Today I tired and I don’t want to walk. Weather is bad. I don’t have a lot of time in the evening. On weekends I want to cook a dinner. My neighbour is very friendly. Right now I am hungry, because I need to eat.
 
 ## Mentor feedback
 
-*(пока пусто)*
+**Итог P1-05:** A 6/8 · A2 4/6 · B 6.5/10 · C **6.5/10** → Theme 5 **done**.
+
+### C — Corrected version
+
+```text
+On weekdays I usually get up early. I have breakfast in my apartment. I want to build a useful habit — to read every day. I need to do one thing / run an errand after work. Today I am tired, and I don’t want to go for a walk. The weather is bad. I don’t have a lot of time in the evening. On weekends I want to cook dinner. My neighbor is very friendly. Right now I am hungry, so I need to eat.
+```
+
+### Главные правки C
+
+1. *have a breakfast / cook a dinner* → **have breakfast / cook dinner** (приём пищи часто без *a*).
+2. *useful a habit* → **a useful habit**; *read every day* → **to read** every day.
+3. *one a thing* → **one thing** / **an errand**.
+4. *Today I tired* → **Today I am tired** (*be* + прилагательное).
+5. *Weather is bad* → **The weather is bad**.
+6. *hungry, because I need to eat* → **hungry, so I need to eat** (*поэтому* = so, не because).
+
+### Сильное в C
+- *On weekdays / On weekends*
+- *I want to… / I need to… / I don’t have… / I don’t want to…*
+- *I am hungry*
+

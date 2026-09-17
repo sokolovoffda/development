@@ -91,4 +91,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 5 — [P1-05](assignments/phase-1/05-want-need-have.md) `in_progress`
+- **Сейчас:** Theme 5 — `done` · дальше Theme 6 Past Simple intro
