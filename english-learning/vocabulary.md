@@ -69,3 +69,13 @@
 | 55 | **anger** | **э́нг**-ге | гнев, злость | He spoke with anger. | 2026-09-08 | new |
 | 56 | **approach** | э-**про́уч** | подход; приближаться (*approached* — past) | We approached the deadline. | 2026-09-08 | new |
 | 57 | **notice** | **но́у**-тис | замечать; уведомление | Did you notice the bug? | 2026-09-08 | new |
+| 58 | **breakfast** | **брэк**-фэст | завтрак | I usually have breakfast at 8. | 2026-09-17 | new |
+| 59 | **dinner** | **ди́**-нэ | ужин / обед (зависит от страны) | We have dinner together on Sunday. | 2026-09-17 | new |
+| 60 | **weekend** | **уи́к**-энд | выходные | I want to rest this weekend. | 2026-09-17 | new |
+| 61 | **tired** | **та́й**-эд | уставший | I’m tired after work. | 2026-09-17 | new |
+| 62 | **hungry** | **ха́нг**-гри | голодный | I’m hungry. I need to eat. | 2026-09-17 | new |
+| 63 | **weather** | **уэ́**-дэ | погода | The weather is nice today. | 2026-09-17 | new |
+| 64 | **neighbor** | **не́й**-бэ | сосед | My neighbor is very friendly. | 2026-09-17 | new |
+| 65 | **habit** | **хэ́**-бит | привычка | I want to build a reading habit. | 2026-09-17 | new |
+| 66 | **apartment** | э-**па́т**-мэнт | квартира | I live in a small apartment. | 2026-09-17 | new |
+| 67 | **errand** | **э́**-рэнд | поручение, дело (сходить куда-то) | I need to run an errand after lunch. | 2026-09-17 | new |
