@@ -44,6 +44,11 @@
 
 ## Session log
 
+### 2026-09-18 — P1-05b story translate (partial)
+
+- Частичный ответ занесён в assignment; продолжение позже.
+- Пока без полного feedback.
+
 ### 2026-09-17 — P1-05 complete (C translation)
 
 - C: **6.5/10**. *want to / need to / don’t have* — ок; артикли с meals, *I am tired*, *the weather*, *so* vs *because*.

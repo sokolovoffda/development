@@ -22,8 +22,10 @@
 
 <!-- пиши ниже -->
 
+### Partial (2026-09-18) — продолжение позже
 
+On Saturday morning I get up late. I want quiet breakfast in my apartment. The weather is well, so I want to go for a walk. But now I need to do one thing.
 
 ## Mentor feedback
 
-*(пока пусто)*
+*(частичная сдача — полный разбор после всего текста)*
