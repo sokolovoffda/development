@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-19 — P1-06 Past Simple issued
+
+- Задание: A (формы) + B (RU→EN) + C (история в Past).
+- Микс: быт + чуть работы.
+- **Next:** сдача в чате.
+
 ### 2026-09-19 — Theme 6 Past Simple (theory)
 
 - Развёрнутый конспект `06-past-simple.md`; тема `in progress`.
