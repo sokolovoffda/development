@@ -49,6 +49,14 @@
 - Частичный ответ занесён в assignment; продолжение позже.
 - Пока без полного feedback.
 
+### 2026-09-19 — P1-05b story translate done
+
+- Полный перевод сдан; **6/10**.
+- Сильное: структура истории, *want to go for a walk*, *need to*, *don’t have*, *cook dinner*.
+- Слабое: *weather is well*; *some hungry / taired* (нужен *am*); *don’t want a lot to work*; *go to bed*; spelling *friendly/talking*.
+- **Next:** Theme 6 Past Simple intro.
+
+
 ### 2026-09-17 — P1-05 complete (C translation)
 
 - C: **6.5/10**. *want to / need to / don’t have* — ок; артикли с meals, *I am tired*, *the weather*, *so* vs *because*.
@@ -267,6 +275,13 @@
 | Today I tired | Today I **am** tired | open | 1 |
 | Weather is bad | **The** weather is bad | open | 1 |
 | hungry because I need to eat | hungry, **so** I need to eat | open | 1 |
+
+| weather is well | The weather is **good/nice** | open | 1 |
+| some hungry | **a bit / a little** hungry | open | 1 |
+| taired / I tired | I **am tired** | open | 1 |
+| don’t want a lot to work | don’t want **to work a lot** | open | 1 |
+| get down sleep | **go to bed** early | open | 1 |
+| also go (he) | also **goes** / is also going | open | 1 |
 
 ---
 
