@@ -91,4 +91,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** P1-05b story — `done` · дальше Theme 6 Past Simple intro
+- **Сейчас:** Theme 6 Past Simple — теория · [P1-06](assignments/phase-1/06-past-simple.md) `in_progress`

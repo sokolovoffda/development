@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-19 — Theme 6 Past Simple (theory)
+
+- Развёрнутый конспект `06-past-simple.md`; тема `in progress`.
+- Фокус: *-ed* / irregular, *didn’t / Did*, *was/were*; микс быт + работа.
+- **Next:** задание P1-06 после «готов».
+
 ### 2026-09-18 — P1-05b story translate (partial)
 
 - Частичный ответ занесён в assignment; продолжение позже.
