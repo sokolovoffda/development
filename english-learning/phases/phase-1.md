@@ -35,7 +35,7 @@
 | 3 | Prepositions: *at work, in a bank, on Monday* — [конспект](../notes/phase-1/03-prepositions.md) · [P1-03](../assignments/phase-1/03-prepositions.md) | done | 2026-09-03 |
 | 4 | Articles: *a / an / the* — [конспект](../notes/phase-1/04-articles.md) · [P1-04](../assignments/phase-1/04-articles.md) | done | 2026-09-04 |
 | 5 | Chunks: *I want to + V*, *I need to + V*, *I don’t have…* — [конспект](../notes/phase-1/05-want-need-have.md) · [P1-05](../assignments/phase-1/05-want-need-have.md) | done | 2026-09-17 |
-| 6 | Past Simple intro: *I worked / I developed* — [конспект](../notes/phase-1/06-past-simple.md) · [P1-06](../assignments/phase-1/06-past-simple.md) | in progress | |
+| 6 | Past Simple intro: *I worked / I developed* — [конспект](../notes/phase-1/06-past-simple.md) · [P1-06](../assignments/phase-1/06-past-simple.md) | done | 2026-09-21 |
 
 Статусы темы: `pending` → `in progress` → `done`.
 

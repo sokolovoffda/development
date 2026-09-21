@@ -4,7 +4,7 @@
 |--|--|
 | Phase | 1 |
 | Theme | 6 — Past Simple |
-| Status | in_progress |
+| Status | done |
 
 Перед заданием: [notes/phase-1/06-past-simple.md](../../notes/phase-1/06-past-simple.md).
 
@@ -44,10 +44,33 @@
 
 ## Your answer
 
-<!-- пиши ниже -->
+### A
+Yesterday I worked from home. She went to the store. We had dinner at 8. He was tired after work. They were at home last Sunday. I got up late on Sunday. My neighbor talked to me by the door. I didn’t want to go out. Did you cook dinner yesterday? Did she was busy last Monday?
 
+### B
+Yesterday I got up late. The weather was good. I wanted to go for a walk. I needed go to store.I didn’t have milk. We talked by the door a short while. I didn’t want to work a lot. In the evening I cooked dinner. On last week I worked remotely. Were you busy on Friday?
 
+### C
+Last sunday i got up late. I had breakfast in my apartment. The weather was good, so I wanted to go for a walk. But at first I needed go to the stor. I was some hangry. I didn't have bread. My neighbour also came out on the street. He was very friendly. We tolked by the door for a short time. I tired after a week and didn't want to work. Evening i cooked dinner and rested.
 
 ## Mentor feedback
 
-*(пока пусто)*
+**Итог P1-06:** A **9/10** · B **8/10** · C **6.5/10** → Theme 6 **done**.
+
+### C — Corrected version
+
+```text
+Last Sunday I got up late. I had breakfast in my apartment. The weather was good, so I wanted to go for a walk. But first I needed to go to the store. I was a bit hungry. I didn’t have any bread. My neighbor also went outside. He was very friendly. We talked by the door for a short time. I was tired after the week and didn’t want to work a lot. In the evening I cooked dinner and rested.
+```
+
+### Главные правки C
+
+1. *needed go* → **needed to go** (*to* + глагол); *stor* → **store**
+2. *I tired* / *some hangry* → **I was tired** · **a bit hungry**
+3. *Evening I…* → **In the evening I…**; *tolked* → **talked**
+
+Ещё: *But first* (*сначала*); *went outside*; *don’t want to work a lot*; *Last Sunday* / *I* с заглавной.
+
+### Сильное
+- *got up, had breakfast, was good, wanted to, didn’t have, cooked, rested*
+- irregular + *was/were* в целом держатся

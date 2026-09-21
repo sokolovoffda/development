@@ -44,6 +44,14 @@
 
 ## Session log
 
+### 2026-09-21 — P1-06 Past Simple complete
+
+- A 9/10 · B 8/10 · C 6.5/10 → Theme 6 `done`.
+- Сильное: irregular (*got, went, had*), *was/were*, *wanted to*, *didn’t want*.
+- Слабое: *needed to* (повтор); *I was tired*; *In the evening*; *Was she…?* (не *Did she was*); spelling *talked/hungry/store*.
+- Phase 1 grammar themes 1–6 закрыты.
+- **Next:** короткий checkpoint Phase 1 или listening/speaking ритуал.
+
 ### 2026-09-19 — P1-06 Past Simple issued
 
 - Задание: A (формы) + B (RU→EN) + C (история в Past).
@@ -295,10 +303,18 @@
 | get down sleep | **go to bed** early | open | 1 |
 | also go (he) | also **goes** / is also going | open | 1 |
 
+| needed go | needed **to** go | open | 1 |
+| Did she was…? | **Was** she…? | review | 1 |
+| On last week | **Last week** | open | 1 |
+| I tired (past) | I **was** tired | open | 1 |
+| Evening I… | **In the evening** I… | open | 1 |
+| hangry / tolked / stor | **hungry** / **talked** / **store** | open | 1 |
+
 ---
 
 ## Wins
 
+- 2026-09-21: P1-06 Past Simple — Phase 1 grammar themes 1–6 закрыты.
 - 2026-08-29: диагностика + отдельные phase-планы + явный протокол трекинга.
 - 2026-08-30: P1-01 — Present Simple без *I working / On work / My stack it is*; связный текст о команде.
 - 2026-08-31: монолог Q&A — *Yes, I do / No, I don’t*, *he develops*, финальный текст о работе и стеке.
