@@ -91,4 +91,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** Theme 6 Past Simple — `done` · Phase 1 grammar checklist закрыт · дальше checkpoint / listening-speaking
+- **Сейчас:** P1-06b Past story drill (поездка к родителям) `in_progress`

@@ -44,6 +44,12 @@
 
 ## Session log
 
+### 2026-09-21 — P1-06b Past story issued (error focus)
+
+- Новый сюжет: поездка к родителям (не weekend/neighbor).
+- Фокус: *needed to*, *was tired/nervous*, *Last…*, *In the evening*.
+- **Next:** перевод в чате → «проверь P1-06b».
+
 ### 2026-09-21 — P1-06 Past Simple complete
 
 - A 9/10 · B 8/10 · C 6.5/10 → Theme 6 `done`.
