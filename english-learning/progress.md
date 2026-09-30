@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-30 — P1-06b Past story done
+
+- Три абзаца сданы; общий **~6/10**.
+- §3 сильнее: *was busy*, *didn’t come*, *want to* в Present — верно.
+- Повтор: *came home*, *good trip*, *them*, *in October*; из §1–2 — *didn’t have*, *needed to*, *go to bed*, *In the evening*.
+- **Next:** Phase 1 checkpoint или listening/speaking.
+
 ### 2026-09-21 — P1-06b Past story issued (error focus)
 
 - Новый сюжет: поездка к родителям (не weekend/neighbor).

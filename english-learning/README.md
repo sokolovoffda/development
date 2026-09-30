@@ -91,4 +91,4 @@
 
 - **Старт:** 2026-08-29
 - **Фаза:** [Phase 1 — Foundation](phases/phase-1.md)
-- **Сейчас:** P1-06b Past story drill (поездка к родителям) `in_progress`
+- **Сейчас:** P1-06b — `done` · Phase 1 grammar 1–6 закрыты · дальше checkpoint / listening-speaking
