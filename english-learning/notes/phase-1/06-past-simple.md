@@ -67,8 +67,39 @@ We talked by the door.
 | meet | **met** | встретил |
 | feel | **felt** | чувствовал |
 | find | **found** | нашёл |
-| fix | fix**ed** | починил *(regular)* |
 | build | **built** | построил / выстроил |
+
+*fix* → fix**ed** (правильный; в таблице выше для сравнения).
+
+### +20 новых irregular (добавлено 2026-09-30)
+
+| Present | Past | Перевод |
+|---------|------|---------|
+| take | **took** | взял |
+| give | **gave** | дал |
+| tell | **told** | сказал / рассказал |
+| say | **said** | сказал |
+| know | **knew** | знал |
+| think | **thought** | думал |
+| bring | **brought** | принёс |
+| catch | **caught** | поймал / успел (*catch a train*) |
+| drive | **drove** | вёл (машину) |
+| forget | **forgot** | забыл |
+| lose | **lost** | потерял |
+| pay | **paid** | заплатил |
+| put | **put** | положил |
+| run | **ran** | бежал |
+| send | **sent** | отправил |
+| sit | **sat** | сидел |
+| speak | **spoke** | говорил |
+| spend | **spent** | провёл (время) / потратил |
+| stand | **stood** | стоял |
+| win | **won** | выиграл |
+| become | **became** | стал |
+| hear | **heard** | слышал |
+| wake | **woke** | проснулся (*wake up*) |
+
+*(в таблице 22 — с небольшим запасом; для Anki бери любые 20)*
 
 ```text
 Yesterday I got up late.
@@ -77,6 +108,10 @@ I had breakfast in my apartment.
 I ate pasta and drank tea.
 I felt tired after the week.
 I bought milk and bread.
+I took a taxi. I caught the train.
+I forgot my keys. I lost my ticket.
+I spent the evening with my parents.
+I woke up early and drove to the station.
 ```
 
 ---

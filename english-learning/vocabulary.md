@@ -79,3 +79,23 @@
 | 65 | **habit** | **хэ́**-бит | привычка | I want to build a reading habit. | 2026-09-17 | new |
 | 66 | **apartment** | э-**па́т**-мэнт | квартира | I live in a small apartment. | 2026-09-17 | new |
 | 67 | **errand** | **э́**-рэнд | поручение, дело (сходить куда-то) | I need to run an errand after lunch. | 2026-09-17 | new |
+| 68 | **trip** | трип | поездка | It was a good trip. | 2026-09-30 | new |
+| 69 | **train** | трейн | поезд | I had to catch the train. | 2026-09-30 | new |
+| 70 | **rain** | рейн | дождь; идти (о дожде) | It rained all morning. | 2026-09-30 | new |
+| 71 | **backpack** | **бэк**-пэк | рюкзак | I had only one backpack. | 2026-09-30 | new |
+| 72 | **nervous** | **нё́**-вэс | нервный | I was a bit nervous. | 2026-09-30 | new |
+| 73 | **garage** | гэ-**ра́ж** / гэ́-ридж | гараж | We fixed a bike in the garage. | 2026-09-30 | new |
+| 74 | **bicycle** | **ба́й**-си-кл | велосипед | We fixed an old bicycle. | 2026-09-30 | new |
+| 75 | **soup** | суп | суп | Mom cooked soup. | 2026-09-30 | new |
+| 76 | **movie** | **му́**-ви | фильм | In the evening we watched a movie. | 2026-09-30 | new |
+| 77 | **parents** | **пэ́**-рэнтс | родители | I visited my parents. | 2026-09-30 | new |
+| 78 | **kitchen** | **ки́**-чен | кухня | We had lunch in the kitchen. | 2026-09-30 | new |
+| 79 | **return** | ри-**тё́н** | вернуться | On Wednesday I returned home. | 2026-09-30 | new |
+| 80 | **visit** | **ви́**-зит | навещать; визит | I want to visit them in October. | 2026-09-30 | new |
+| 81 | **city** | **си́**-ти | город | I went to another city. | 2026-09-30 | new |
+| 82 | **interesting** | **и́н**-трес-тинг | интересный | It was interesting. | 2026-09-30 | new |
+| 83 | **rarely** | **рэ́**-ли | редко | We rarely see each other. | 2026-09-30 | new |
+| 84 | **together** | ту-**ге́**-дэ | вместе | We had lunch together. | 2026-09-30 | new |
+| 85 | **catch** | кэч | успеть на / поймать | I caught the train. | 2026-09-30 | new |
+| 86 | **baggage** | **бэ́**-гидж | багаж | I didn’t have a lot of baggage. | 2026-09-30 | new |
+| 87 | **station** | **сте́й**-шн | вокзал / станция | I drove to the station. | 2026-09-30 | new |

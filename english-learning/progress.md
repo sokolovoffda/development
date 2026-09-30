@@ -44,6 +44,13 @@
 
 ## Session log
 
+### 2026-09-30 — Phase 1 final checkpoint issued
+
+- +20 irregular verbs в `06-past-simple.md`.
+- Vocabulary #68–87 (trip, train, rain, backpack…).
+- Большой тест: [07-phase1-final-checkpoint.md](../assignments/phase-1/07-phase1-final-checkpoint.md) (A–F).
+- **Next:** сдача по частям → «проверь P1-FINAL».
+
 ### 2026-09-30 — P1-06b Past story done
 
 - Три абзаца сданы; общий **~6/10**.

@@ -39,6 +39,8 @@
 
 Статусы темы: `pending` → `in progress` → `done`.
 
+**Финальный checkpoint Phase 1:** [assignments/phase-1/07-phase1-final-checkpoint.md](../assignments/phase-1/07-phase1-final-checkpoint.md) (после тем 1–6).
+
 ---
 
 ## Skills targets (Phase 1)
